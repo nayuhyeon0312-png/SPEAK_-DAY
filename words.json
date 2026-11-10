@@ -1,0 +1,3607 @@
+[
+  {
+    "word": "a",
+    "definition": "something that is being considered",
+    "meaning_ko": "하나의, 어떤"
+  },
+  {
+    "word": "able",
+    "definition": "having the power, skill, money, or means to do something",
+    "meaning_ko": "~할 수 있는"
+  },
+  {
+    "word": "about",
+    "definition": "on the subject of, or concerning something",
+    "meaning_ko": "~에 관하여, 약; 대략"
+  },
+  {
+    "word": "absolutely",
+    "definition": "completely",
+    "meaning_ko": "완전히, 틀림없이"
+  },
+  {
+    "word": "accept",
+    "definition": "to receive or take something that is offered",
+    "meaning_ko": "받아들이다, 수락하다"
+  },
+  {
+    "word": "account",
+    "definition": "a story or report about something",
+    "meaning_ko": "계정; 설명, 이야기"
+  },
+  {
+    "word": "across",
+    "definition": "from one side to the other of something",
+    "meaning_ko": "가로질러, 건너편에"
+  },
+  {
+    "word": "action",
+    "definition": "something that a person does",
+    "meaning_ko": "행동, 조치"
+  },
+  {
+    "word": "actually",
+    "definition": "used when you are saying what is the truth of a situation",
+    "meaning_ko": "사실은, 실제로"
+  },
+  {
+    "word": "add",
+    "definition": "to put something together with another thing",
+    "meaning_ko": "더하다, 추가하다"
+  },
+  {
+    "word": "address",
+    "definition": "the words and numbers that are used to describe the location of a building and that are written on letters, envelopes, and packages so that they can be mailed to that location",
+    "meaning_ko": "주소"
+  },
+  {
+    "word": "affect",
+    "definition": "to make an effect on someone or something",
+    "meaning_ko": "영향을 미치다"
+  },
+  {
+    "word": "after",
+    "definition": "following in time, at a later time",
+    "meaning_ko": "~후에, 뒤에"
+  },
+  {
+    "word": "afternoon",
+    "definition": "the middle part of the day : the part of the day between noon and evening",
+    "meaning_ko": "오후"
+  },
+  {
+    "word": "again",
+    "definition": "one more time, once more",
+    "meaning_ko": "다시"
+  },
+  {
+    "word": "against",
+    "definition": "in opposition to",
+    "meaning_ko": "~에 반대하여, ~에 맞서"
+  },
+  {
+    "word": "age",
+    "definition": "the amount of time a person has lived",
+    "meaning_ko": "나이, 시대"
+  },
+  {
+    "word": "ago",
+    "definition": "in the past",
+    "meaning_ko": "~전에"
+  },
+  {
+    "word": "agree",
+    "definition": "to the same opinion about something",
+    "meaning_ko": "동의하다"
+  },
+  {
+    "word": "ahead",
+    "definition": "in or toward the front",
+    "meaning_ko": "앞에, 앞으로"
+  },
+  {
+    "word": "air",
+    "definition": "the invisible mixture of gases that we breathe",
+    "meaning_ko": "공기"
+  },
+  {
+    "word": "all",
+    "definition": "the whole, entire or total amount",
+    "meaning_ko": "모든, 전부"
+  },
+  {
+    "word": "allow",
+    "definition": "to permit or treat as acceptable",
+    "meaning_ko": "허락하다, 허용하다"
+  },
+  {
+    "word": "almost",
+    "definition": "only a little less than, nearly, not quite",
+    "meaning_ko": "거의"
+  },
+  {
+    "word": "along",
+    "definition": "at a point on something",
+    "meaning_ko": "~을 따라"
+  },
+  {
+    "word": "already",
+    "definition": "before this time",
+    "meaning_ko": "이미, 벌써"
+  },
+  {
+    "word": "alright",
+    "definition": "good enough, although not very good; safe or well",
+    "meaning_ko": "괜찮은, 나쁘지 않은"
+  },
+  {
+    "word": "also",
+    "definition": "in addition, too, in a similar way",
+    "meaning_ko": "또한, 역시"
+  },
+  {
+    "word": "although",
+    "definition": "despite the fact that, however,",
+    "meaning_ko": "비록 ~이지만"
+  },
+  {
+    "word": "always",
+    "definition": "at all times",
+    "meaning_ko": "항상, 언제나"
+  },
+  {
+    "word": "amount",
+    "definition": "a quantity of something",
+    "meaning_ko": "양, 액수"
+  },
+  {
+    "word": "and",
+    "definition": "used to join words or groups of words",
+    "meaning_ko": "그리고"
+  },
+  {
+    "word": "another",
+    "definition": "one more in addition",
+    "meaning_ko": "또 하나의, 또 다른"
+  },
+  {
+    "word": "answer",
+    "definition": "a reaction to a question someone asks",
+    "meaning_ko": "대답, 답하다"
+  },
+  {
+    "word": "any",
+    "definition": "used to refer to something not particular or specific",
+    "meaning_ko": "어떤, 어느 것이든"
+  },
+  {
+    "word": "anybody",
+    "definition": "any person : anyone",
+    "meaning_ko": "누구든지, 아무도"
+  },
+  {
+    "word": "anyone",
+    "definition": "any person",
+    "meaning_ko": "누구든지, 아무도"
+  },
+  {
+    "word": "anything",
+    "definition": "a thing of any kind, used to refer to a thing, no matter what",
+    "meaning_ko": "무엇이든, 아무것도"
+  },
+  {
+    "word": "anyway",
+    "definition": "despite something that has been stated before",
+    "meaning_ko": "어쨌든, 아무튼"
+  },
+  {
+    "word": "apply",
+    "definition": "to ask formally for something such as a job",
+    "meaning_ko": "지원하다; 적용하다"
+  },
+  {
+    "word": "area",
+    "definition": "a part or section in a large place",
+    "meaning_ko": "지역, 분야"
+  },
+  {
+    "word": "around",
+    "definition": "located on every side or along something",
+    "meaning_ko": "주변에, 약(about)"
+  },
+  {
+    "word": "as",
+    "definition": "used to refer to the same degree or amount",
+    "meaning_ko": "~처럼, ~로서"
+  },
+  {
+    "word": "ask",
+    "definition": "to request",
+    "meaning_ko": "묻다, 부탁하다"
+  },
+  {
+    "word": "at",
+    "definition": "used to indicate place, location, or arrival",
+    "meaning_ko": "~에, ~에서"
+  },
+  {
+    "word": "available",
+    "definition": "when something is there to be used easily",
+    "meaning_ko": "이용할 수 있는, 시간이 되는"
+  },
+  {
+    "word": "aware",
+    "definition": "knowing or feeling that something exists",
+    "meaning_ko": "알고 있는, 인식하는"
+  },
+  {
+    "word": "away",
+    "definition": "at a distance from a particular person or place",
+    "meaning_ko": "떨어져, 멀리"
+  },
+  {
+    "word": "awful",
+    "definition": "very bad, of low quality, or unpleasant",
+    "meaning_ko": "끔찍한, 형편없는"
+  },
+  {
+    "word": "baby",
+    "definition": "a very young child",
+    "meaning_ko": "아기"
+  },
+  {
+    "word": "back",
+    "definition": "the rear surface of something",
+    "meaning_ko": "뒤, 등; 돌아가다"
+  },
+  {
+    "word": "bad",
+    "definition": "low or poor in quality, not correct or proper",
+    "meaning_ko": "나쁜, 좋지 않은"
+  },
+  {
+    "word": "bag",
+    "definition": "a container made of thin material (such as paper, plastic, or cloth) that opens at the top and is used for holding or carrying things",
+    "meaning_ko": "가방, 봉지"
+  },
+  {
+    "word": "base",
+    "definition": "the bottom or lowest part of something : the part on which something rests or is supported",
+    "meaning_ko": "기초, 토대; 바닥"
+  },
+  {
+    "word": "basically",
+    "definition": "in the most important or fundamental ways",
+    "meaning_ko": "기본적으로, 대체로"
+  },
+  {
+    "word": "be",
+    "definition": "used to show the identity of a thing",
+    "meaning_ko": "~이다, 있다"
+  },
+  {
+    "word": "bear",
+    "definition": "to accept or endure difficulties",
+    "meaning_ko": "견디다, 참다"
+  },
+  {
+    "word": "because",
+    "definition": "for a reason",
+    "meaning_ko": "왜냐하면, ~이기 때문에"
+  },
+  {
+    "word": "become",
+    "definition": "to begin to be, grow to be, develop into",
+    "meaning_ko": "~이 되다"
+  },
+  {
+    "word": "bed",
+    "definition": "a piece of furniture that people sleep on",
+    "meaning_ko": "침대"
+  },
+  {
+    "word": "before",
+    "definition": "at an earlier time, in front of",
+    "meaning_ko": "~전에, 이전에"
+  },
+  {
+    "word": "begin",
+    "definition": "to do the first part of an action, to start",
+    "meaning_ko": "시작하다"
+  },
+  {
+    "word": "behind",
+    "definition": "in or toward the back",
+    "meaning_ko": "뒤에, 뒤쪽으로"
+  },
+  {
+    "word": "believe",
+    "definition": "to accept that something is true",
+    "meaning_ko": "믿다"
+  },
+  {
+    "word": "benefit",
+    "definition": "a good result or effect, something helpful",
+    "meaning_ko": "이점, 혜택; 도움이 되다"
+  },
+  {
+    "word": "bet",
+    "definition": "to risk money on the result of a game, competition, etc.",
+    "meaning_ko": "돈을 걸다; 내기"
+  },
+  {
+    "word": "between",
+    "definition": "in the space that separates to objects",
+    "meaning_ko": "~사이에"
+  },
+  {
+    "word": "big",
+    "definition": "large in size or extent",
+    "meaning_ko": "큰, 중요한"
+  },
+  {
+    "word": "bill",
+    "definition": "a document that says how much money you owe for something you have bought or used",
+    "meaning_ko": "청구서, 계산서; 지폐"
+  },
+  {
+    "word": "bit",
+    "definition": "a small piece of something",
+    "meaning_ko": "조금, 작은 조각"
+  },
+  {
+    "word": "black",
+    "definition": "having the very dark color of coal or the night sky",
+    "meaning_ko": "검은, 검정색의"
+  },
+  {
+    "word": "bloody",
+    "definition": "covered in blood; violent and involving a lot of blood and injuries",
+    "meaning_ko": "피투성이의; 피가 낭자한"
+  },
+  {
+    "word": "board",
+    "definition": "a long, thin, flat piece of wood",
+    "meaning_ko": "널빤지, 판자; 게시판"
+  },
+  {
+    "word": "body",
+    "definition": "a person's physical self",
+    "meaning_ko": "몸, 신체"
+  },
+  {
+    "word": "book",
+    "definition": "a printed or written work that is bound together and has a cover",
+    "meaning_ko": "책"
+  },
+  {
+    "word": "both",
+    "definition": "used to emphasis two things at the same time",
+    "meaning_ko": "둘 다"
+  },
+  {
+    "word": "bother",
+    "definition": "to make someone feel worried or upset",
+    "meaning_ko": "귀찮게 하다, 신경 쓰이게 하다"
+  },
+  {
+    "word": "bottom",
+    "definition": "the lowest part, point, or level of something",
+    "meaning_ko": "맨 아래, 바닥"
+  },
+  {
+    "word": "box",
+    "definition": "a container that is made of a hard material (such as wood, metal, or cardboard) and that usually has four straight sides",
+    "meaning_ko": "상자"
+  },
+  {
+    "word": "boy",
+    "definition": "a male child or youth, a young man",
+    "meaning_ko": "소년, 남자아이"
+  },
+  {
+    "word": "break",
+    "definition": "to separate into pieces",
+    "meaning_ko": "깨다, 부수다; 휴식"
+  },
+  {
+    "word": "breath",
+    "definition": "the air that you take into your lungs and send out from your lungs when you breathe",
+    "meaning_ko": "숨, 호흡"
+  },
+  {
+    "word": "brief",
+    "definition": "lasting , having only a short period of time",
+    "meaning_ko": "짧은, 간단한"
+  },
+  {
+    "word": "bring",
+    "definition": "to take or go with to a place,",
+    "meaning_ko": "가져오다, 데려오다"
+  },
+  {
+    "word": "brother",
+    "definition": "a boy or man who has one or both of the same parents as you",
+    "meaning_ko": "형제, 남자 형제"
+  },
+  {
+    "word": "budget",
+    "definition": "a plan of how you will spend your money; the amount of money you have for something",
+    "meaning_ko": "예산"
+  },
+  {
+    "word": "build",
+    "definition": "to construct by putting parts or materials together",
+    "meaning_ko": "짓다, 만들다"
+  },
+  {
+    "word": "bus",
+    "definition": "a large vehicle that is used for carrying passengers especially along a particular route at particular times",
+    "meaning_ko": "버스"
+  },
+  {
+    "word": "business",
+    "definition": "the activity of making, buying, selling or providing goods",
+    "meaning_ko": "사업, 장사; 업무"
+  },
+  {
+    "word": "but",
+    "definition": "used to contrast a statement with a to previous one",
+    "meaning_ko": "하지만, 그러나"
+  },
+  {
+    "word": "buy",
+    "definition": "to get something by paying money for it; purchase",
+    "meaning_ko": "사다, 구매하다"
+  },
+  {
+    "word": "by",
+    "definition": "close to or next to, up to and beyond, beside a place",
+    "meaning_ko": "~옆에; ~까지; ~에 의해"
+  },
+  {
+    "word": "call",
+    "definition": "to speak, announce or shout in a loud voice",
+    "meaning_ko": "부르다, 전화하다"
+  },
+  {
+    "word": "can",
+    "definition": "to be able to do something",
+    "meaning_ko": "~할 수 있다; 깡통"
+  },
+  {
+    "word": "car",
+    "definition": "a vehicle with four wheels and engine that can carry things",
+    "meaning_ko": "자동차"
+  },
+  {
+    "word": "card",
+    "definition": "a small piece of stiff paper that is marked with symbols or pictures to show its value, comes in a set, and is used for playing games",
+    "meaning_ko": "카드, 종이 패"
+  },
+  {
+    "word": "care",
+    "definition": "effort made to do something correctly or well",
+    "meaning_ko": "돌보다; 신경 쓰다, 관심"
+  },
+  {
+    "word": "carry",
+    "definition": "to move something from one place to another",
+    "meaning_ko": "나르다, 들고 가다"
+  },
+  {
+    "word": "case",
+    "definition": "an example or instance of something",
+    "meaning_ko": "경우, 사례; 사건"
+  },
+  {
+    "word": "catch",
+    "definition": "to use your hands to stop and hold",
+    "meaning_ko": "잡다, 붙잡다; (버스·기회를) 타다/놓치지 않다"
+  },
+  {
+    "word": "cause",
+    "definition": "something that produces an effect",
+    "meaning_ko": "원인; 일으키다"
+  },
+  {
+    "word": "center",
+    "definition": "the middle point or part",
+    "meaning_ko": "중심, 가운데"
+  },
+  {
+    "word": "certain",
+    "definition": "not having any doubt about something",
+    "meaning_ko": "확실한; 어떤"
+  },
+  {
+    "word": "certainly",
+    "definition": "used to emphasize something and show that there is no doubt about it; used to agree to a request",
+    "meaning_ko": "틀림없이, 확실히"
+  },
+  {
+    "word": "chance",
+    "definition": "an opportunity to do something; an amount of time or a situation in which something can be done",
+    "meaning_ko": "기회, 가능성"
+  },
+  {
+    "word": "change",
+    "definition": "to make or become different",
+    "meaning_ko": "바꾸다; 변화, 잔돈"
+  },
+  {
+    "word": "charge",
+    "definition": "to ask for money as a price for a service or goods",
+    "meaning_ko": "요금을 청구하다; 요금, 책임"
+  },
+  {
+    "word": "cheap",
+    "definition": "not costing a lot of money",
+    "meaning_ko": "저렴한, 값싼"
+  },
+  {
+    "word": "check",
+    "definition": "to look at (something) carefully to find mistakes, problems, etc.",
+    "meaning_ko": "확인하다, 점검하다; 수표"
+  },
+  {
+    "word": "child",
+    "definition": "a young person",
+    "meaning_ko": "아이, 어린이"
+  },
+  {
+    "word": "choice",
+    "definition": "the act of choosing : the act of picking or deciding between two or more possibilities",
+    "meaning_ko": "선택, 선택권"
+  },
+  {
+    "word": "choose",
+    "definition": "to decide that a particular person or thing is the one that you want",
+    "meaning_ko": "고르다, 선택하다"
+  },
+  {
+    "word": "church",
+    "definition": "a building used for Christian religious worship or services",
+    "meaning_ko": "교회"
+  },
+  {
+    "word": "city",
+    "definition": "many people living in a place larger than a town",
+    "meaning_ko": "도시"
+  },
+  {
+    "word": "class",
+    "definition": "a group of students who often meet and are taught together",
+    "meaning_ko": "수업, 학급; 종류"
+  },
+  {
+    "word": "clean",
+    "definition": "free from dirt, marks, etc. : not dirty",
+    "meaning_ko": "깨끗한; 청소하다"
+  },
+  {
+    "word": "clear",
+    "definition": "very obvious or easy to perceive",
+    "meaning_ko": "분명한, 명확한; 맑은"
+  },
+  {
+    "word": "clock",
+    "definition": "a device that shows what time it is and that is usually placed in a room or attached to a wall",
+    "meaning_ko": "시계"
+  },
+  {
+    "word": "close",
+    "definition": "to move so that things cannot path through",
+    "meaning_ko": "닫다; 가까운"
+  },
+  {
+    "word": "cold",
+    "definition": "having a very low temperature",
+    "meaning_ko": "추운, 차가운; 감기"
+  },
+  {
+    "word": "college",
+    "definition": "an school or educational institution for adults",
+    "meaning_ko": "대학, 전문대학"
+  },
+  {
+    "word": "color",
+    "definition": "a quality such as red, blue, green, etc.",
+    "meaning_ko": "색, 색깔"
+  },
+  {
+    "word": "come",
+    "definition": "to move toward someone, to approach",
+    "meaning_ko": "오다"
+  },
+  {
+    "word": "comment",
+    "definition": "to discuss or write an opinion on something",
+    "meaning_ko": "논평하다; 의견, 댓글"
+  },
+  {
+    "word": "committee",
+    "definition": "a group of people who are chosen to make decisions about something",
+    "meaning_ko": "위원회"
+  },
+  {
+    "word": "community",
+    "definition": "a group of people who share a common idea or area",
+    "meaning_ko": "지역 사회, 공동체"
+  },
+  {
+    "word": "company",
+    "definition": "a business that sells thing or provides services",
+    "meaning_ko": "회사; 함께 있음"
+  },
+  {
+    "word": "completely",
+    "definition": "in every way or as much as possible",
+    "meaning_ko": "완전히, 전적으로"
+  },
+  {
+    "word": "computer",
+    "definition": "an electronic machine that can store and process large amounts of information",
+    "meaning_ko": "컴퓨터"
+  },
+  {
+    "word": "concern",
+    "definition": "a feeling of worry or anxiety",
+    "meaning_ko": "걱정, 우려; 관련되다"
+  },
+  {
+    "word": "consider",
+    "definition": "to think about carefully",
+    "meaning_ko": "고려하다, 생각하다"
+  },
+  {
+    "word": "contact",
+    "definition": "the state or condition where two things are touching",
+    "meaning_ko": "접촉; 연락하다"
+  },
+  {
+    "word": "continue",
+    "definition": "to do something without stopping",
+    "meaning_ko": "계속하다"
+  },
+  {
+    "word": "control",
+    "definition": "to direct or influence the behavior of something or someone",
+    "meaning_ko": "통제하다, 조절하다; 통제"
+  },
+  {
+    "word": "conversation",
+    "definition": "an informal talk involving two people or a small group of people",
+    "meaning_ko": "대화, 회화"
+  },
+  {
+    "word": "cool",
+    "definition": "somewhat cold : not warm or hot",
+    "meaning_ko": "시원한; 멋진"
+  },
+  {
+    "word": "copy",
+    "definition": "something that is or looks exactly or almost exactly like something else",
+    "meaning_ko": "복사본; 복사하다"
+  },
+  {
+    "word": "correct",
+    "definition": "true or accurate; agreeing with facts",
+    "meaning_ko": "맞는, 정확한; 바로잡다"
+  },
+  {
+    "word": "cost",
+    "definition": "the price of something",
+    "meaning_ko": "비용, 가격; 비용이 들다"
+  },
+  {
+    "word": "cough",
+    "definition": "to force air through your throat with a short, loud noise often because you are sick",
+    "meaning_ko": "기침; 기침하다"
+  },
+  {
+    "word": "could",
+    "definition": "used as the past tense of can, to indicate possibility",
+    "meaning_ko": "~할 수 있었다; ~일 수도 있다"
+  },
+  {
+    "word": "council",
+    "definition": "a group of people who are chosen to make rules, laws, or decisions about something",
+    "meaning_ko": "의회, 위원회"
+  },
+  {
+    "word": "country",
+    "definition": "an area, nation that is controlled by government",
+    "meaning_ko": "나라, 국가; 시골"
+  },
+  {
+    "word": "couple",
+    "definition": "two people or things being together",
+    "meaning_ko": "둘, 한 쌍; 부부"
+  },
+  {
+    "word": "course",
+    "definition": "the route or direction that something moves along",
+    "meaning_ko": "강좌, 과정; 경로"
+  },
+  {
+    "word": "cover",
+    "definition": "put something over or on top of something else",
+    "meaning_ko": "덮다, 가리다; 다루다"
+  },
+  {
+    "word": "create",
+    "definition": "to make, cause, or bring into existence",
+    "meaning_ko": "만들다, 창조하다"
+  },
+  {
+    "word": "cut",
+    "definition": "to use a sharp tool or object to open or divide something",
+    "meaning_ko": "자르다, 베다"
+  },
+  {
+    "word": "dad",
+    "definition": "father",
+    "meaning_ko": "아빠, 아버지"
+  },
+  {
+    "word": "date",
+    "definition": "a particular day of a month or year",
+    "meaning_ko": "날짜; 데이트"
+  },
+  {
+    "word": "day",
+    "definition": "each of the 24 hours beginning at midnight",
+    "meaning_ko": "하루, 날"
+  },
+  {
+    "word": "deal",
+    "definition": "to trade or do business with someone",
+    "meaning_ko": "거래하다; 다루다; 거래"
+  },
+  {
+    "word": "dear",
+    "definition": "loved or valued very much",
+    "meaning_ko": "소중한, 사랑하는"
+  },
+  {
+    "word": "decide",
+    "definition": "to make a choice about something or choose after thinking",
+    "meaning_ko": "결정하다"
+  },
+  {
+    "word": "decision",
+    "definition": "a choice that you make about something after thinking about it",
+    "meaning_ko": "결정, 판단"
+  },
+  {
+    "word": "definitely",
+    "definition": "without any doubt",
+    "meaning_ko": "분명히, 틀림없이"
+  },
+  {
+    "word": "degree",
+    "definition": "a unit for measuring temperature or the size of an angle",
+    "meaning_ko": "도, 각도; 학위, 정도"
+  },
+  {
+    "word": "depend",
+    "definition": "to need (someone or something) for support, help, etc.",
+    "meaning_ko": "의존하다, ~에 달려 있다"
+  },
+  {
+    "word": "detail",
+    "definition": "a small part of something",
+    "meaning_ko": "세부 사항, 자세한 내용"
+  },
+  {
+    "word": "develop",
+    "definition": "to cause to grow or bigger or more advanced",
+    "meaning_ko": "발전시키다, 개발하다; 발달하다"
+  },
+  {
+    "word": "development",
+    "definition": "when someone or something grows or changes and becomes more advanced",
+    "meaning_ko": "발전, 발달, 개발"
+  },
+  {
+    "word": "die",
+    "definition": "to stop living or end life",
+    "meaning_ko": "죽다"
+  },
+  {
+    "word": "difference",
+    "definition": "a quality that is unlike something else",
+    "meaning_ko": "차이, 다름"
+  },
+  {
+    "word": "different",
+    "definition": "not of the same kind, unlike in nature",
+    "meaning_ko": "다른, 차이가 있는"
+  },
+  {
+    "word": "difficult",
+    "definition": "not easy : requiring much work or skill to do or make",
+    "meaning_ko": "어려운, 힘든"
+  },
+  {
+    "word": "dinner",
+    "definition": "the main meal of the day",
+    "meaning_ko": "저녁 식사"
+  },
+  {
+    "word": "discuss",
+    "definition": "to talk about (something) with another person or group",
+    "meaning_ko": "논의하다, 토론하다"
+  },
+  {
+    "word": "discussion",
+    "definition": "the act of talking about something with another person or a group of people : a conversation about something",
+    "meaning_ko": "토론, 논의"
+  },
+  {
+    "word": "do",
+    "definition": "to perform an action or activity; to work on something",
+    "meaning_ko": "하다, 수행하다"
+  },
+  {
+    "word": "doctor",
+    "definition": "a person who skilled to treat people who are ill, sick and injured",
+    "meaning_ko": "의사"
+  },
+  {
+    "word": "document",
+    "definition": "an official record that gives information",
+    "meaning_ko": "문서, 서류"
+  },
+  {
+    "word": "dog",
+    "definition": "a type of animal that is often kept as a pet or trained to work for people by guarding buildings, hunting, etc.",
+    "meaning_ko": "개"
+  },
+  {
+    "word": "dollar",
+    "definition": "a basic unit of money in the U.S., Canada, Australia, and other countries that is equal to 100 cents",
+    "meaning_ko": "달러"
+  },
+  {
+    "word": "door",
+    "definition": "a movable entrance to a building or room",
+    "meaning_ko": "문"
+  },
+  {
+    "word": "down",
+    "definition": "going from a higher position to a lower position",
+    "meaning_ko": "아래로, 아래에"
+  },
+  {
+    "word": "draw",
+    "definition": "to produce by making lines on a paper",
+    "meaning_ko": "그리다; 끌어당기다"
+  },
+  {
+    "word": "drink",
+    "definition": "to take a liquid into your mouth and swallow it",
+    "meaning_ko": "마시다; 음료"
+  },
+  {
+    "word": "drive",
+    "definition": "to control the movement of a car",
+    "meaning_ko": "운전하다; 몰다"
+  },
+  {
+    "word": "drop",
+    "definition": "to let something fall",
+    "meaning_ko": "떨어뜨리다; 떨어지다; 한 방울"
+  },
+  {
+    "word": "during",
+    "definition": "throughout the entire time",
+    "meaning_ko": "~동안"
+  },
+  {
+    "word": "each",
+    "definition": "every one of two more things",
+    "meaning_ko": "각각의, 각자"
+  },
+  {
+    "word": "early",
+    "definition": "at or near the beginning of time, done before the expected time",
+    "meaning_ko": "이른, 일찍"
+  },
+  {
+    "word": "easy",
+    "definition": "not hard to do, not difficult",
+    "meaning_ko": "쉬운, 편한"
+  },
+  {
+    "word": "eat",
+    "definition": "to take food into your mouth and swallow it",
+    "meaning_ko": "먹다"
+  },
+  {
+    "word": "education",
+    "definition": "the process of giving or receiving instruction",
+    "meaning_ko": "교육"
+  },
+  {
+    "word": "effect",
+    "definition": "a change or results of something being done",
+    "meaning_ko": "효과, 영향"
+  },
+  {
+    "word": "effort",
+    "definition": "work done by the mind or body",
+    "meaning_ko": "노력"
+  },
+  {
+    "word": "eight",
+    "definition": "the number 8",
+    "meaning_ko": "8, 여덟"
+  },
+  {
+    "word": "eighty",
+    "definition": "the number 80",
+    "meaning_ko": "80, 여든"
+  },
+  {
+    "word": "either",
+    "definition": "one or the other of two",
+    "meaning_ko": "둘 중 하나; 어느 쪽이든"
+  },
+  {
+    "word": "eleven",
+    "definition": "the number 11",
+    "meaning_ko": "11, 열하나"
+  },
+  {
+    "word": "else",
+    "definition": "in a different or additional manner or place",
+    "meaning_ko": "그 밖의, 다른; 그 외에"
+  },
+  {
+    "word": "end",
+    "definition": "a point that marks the limit of something",
+    "meaning_ko": "끝, 마지막; 끝나다"
+  },
+  {
+    "word": "enjoy",
+    "definition": "to take pleasure in (something)",
+    "meaning_ko": "즐기다, 재미있어하다"
+  },
+  {
+    "word": "enough",
+    "definition": "equal to what is needed, as much as required",
+    "meaning_ko": "충분한, 충분히"
+  },
+  {
+    "word": "especially",
+    "definition": "more than usually; very, extremely",
+    "meaning_ko": "특히, 무엇보다도"
+  },
+  {
+    "word": "even",
+    "definition": "being flat, equal or smooth",
+    "meaning_ko": "심지어; 평평한, 짝수의"
+  },
+  {
+    "word": "evening",
+    "definition": "the last part of the day and early part of the night",
+    "meaning_ko": "저녁, 초저녁"
+  },
+  {
+    "word": "ever",
+    "definition": "at any time, at all times",
+    "meaning_ko": "언제든; 지금까지"
+  },
+  {
+    "word": "every",
+    "definition": "including each person or thing in a group",
+    "meaning_ko": "모든, 매~"
+  },
+  {
+    "word": "everybody",
+    "definition": "every person; everyone",
+    "meaning_ko": "모든 사람, 모두"
+  },
+  {
+    "word": "everyone",
+    "definition": "every person; everybody",
+    "meaning_ko": "모든 사람, 모두"
+  },
+  {
+    "word": "everything",
+    "definition": "every thing there is or all that exists",
+    "meaning_ko": "모든 것"
+  },
+  {
+    "word": "exactly",
+    "definition": "completely correct",
+    "meaning_ko": "정확히, 바로"
+  },
+  {
+    "word": "example",
+    "definition": "a thing which is seen as a model",
+    "meaning_ko": "예, 사례"
+  },
+  {
+    "word": "expect",
+    "definition": "to be regarded as likely to happen",
+    "meaning_ko": "기대하다, 예상하다"
+  },
+  {
+    "word": "experience",
+    "definition": "the act of having things happen to you",
+    "meaning_ko": "경험; 경험하다"
+  },
+  {
+    "word": "explain",
+    "definition": "to make clear or easy to understand by describing",
+    "meaning_ko": "설명하다"
+  },
+  {
+    "word": "extra",
+    "definition": "more than is usual or necessary : additional",
+    "meaning_ko": "추가의, 여분의"
+  },
+  {
+    "word": "eye",
+    "definition": "the part of the body that you see with",
+    "meaning_ko": "눈"
+  },
+  {
+    "word": "face",
+    "definition": "the front part of a person's head, the surface of a thing",
+    "meaning_ko": "얼굴; 마주하다"
+  },
+  {
+    "word": "fact",
+    "definition": "something that is known or proved to be true",
+    "meaning_ko": "사실"
+  },
+  {
+    "word": "fair",
+    "definition": "agreeing with what is thought to be right or acceptable",
+    "meaning_ko": "공정한, 정당한"
+  },
+  {
+    "word": "fairly",
+    "definition": "more than average, but less than very; something done in a fair way",
+    "meaning_ko": "꽤, 상당히; 공정하게"
+  },
+  {
+    "word": "fall",
+    "definition": "to come or go down from a higher to a lower place",
+    "meaning_ko": "떨어지다; 가을"
+  },
+  {
+    "word": "family",
+    "definition": "a group of people who are related to each other",
+    "meaning_ko": "가족"
+  },
+  {
+    "word": "far",
+    "definition": "to a great distance in space or time",
+    "meaning_ko": "먼, 멀리"
+  },
+  {
+    "word": "father",
+    "definition": "a male parent",
+    "meaning_ko": "아버지"
+  },
+  {
+    "word": "feel",
+    "definition": "to be aware of or experience an emotion or sensation",
+    "meaning_ko": "느끼다"
+  },
+  {
+    "word": "few",
+    "definition": "not many, a small number",
+    "meaning_ko": "거의 없는, 소수의"
+  },
+  {
+    "word": "fifteen",
+    "definition": "the number 15",
+    "meaning_ko": "15, 열다섯"
+  },
+  {
+    "word": "fifty",
+    "definition": "the number 50",
+    "meaning_ko": "50, 쉰"
+  },
+  {
+    "word": "figure",
+    "definition": "a an amount that is expressed in numbers",
+    "meaning_ko": "수치, 숫자; 인물, 모습"
+  },
+  {
+    "word": "fill",
+    "definition": "to make something full or to spread through",
+    "meaning_ko": "채우다, 가득 메우다"
+  },
+  {
+    "word": "find",
+    "definition": "to discover something",
+    "meaning_ko": "찾다, 발견하다"
+  },
+  {
+    "word": "fine",
+    "definition": "good, acceptable, or satisfactory",
+    "meaning_ko": "괜찮은, 좋은; 벌금"
+  },
+  {
+    "word": "finish",
+    "definition": "to reach the end of (something) : to stop doing (something) because it is completed",
+    "meaning_ko": "끝내다, 마치다"
+  },
+  {
+    "word": "fire",
+    "definition": "the light, heat and the flame produced by burning something",
+    "meaning_ko": "불, 화재; 해고하다"
+  },
+  {
+    "word": "first",
+    "definition": "coming before all others in time or place",
+    "meaning_ko": "첫 번째의, 처음으로"
+  },
+  {
+    "word": "fit",
+    "definition": "proper or acceptable : morally or socially correct",
+    "meaning_ko": "적합한; 건강한; 맞다"
+  },
+  {
+    "word": "five",
+    "definition": "the number 5",
+    "meaning_ko": "5, 다섯"
+  },
+  {
+    "word": "floor",
+    "definition": "the part of a room on which you stand",
+    "meaning_ko": "바닥, 층"
+  },
+  {
+    "word": "focus",
+    "definition": "the main purpose or center of interest or activity",
+    "meaning_ko": "집중하다; 초점, 중심"
+  },
+  {
+    "word": "follow",
+    "definition": "to come after, to move or travel behind",
+    "meaning_ko": "따라가다, 뒤따르다"
+  },
+  {
+    "word": "food",
+    "definition": "the things that people and animals eat",
+    "meaning_ko": "음식, 식량"
+  },
+  {
+    "word": "foot",
+    "definition": "the part of the leg below ankle",
+    "meaning_ko": "발"
+  },
+  {
+    "word": "for",
+    "definition": "indicating the purpose or need of something",
+    "meaning_ko": "~을 위해; ~동안"
+  },
+  {
+    "word": "force",
+    "definition": "to use physical strength, power, or energy used on something",
+    "meaning_ko": "힘; 강요하다"
+  },
+  {
+    "word": "forget",
+    "definition": "to be unable to think of or remember (something)",
+    "meaning_ko": "잊다"
+  },
+  {
+    "word": "form",
+    "definition": "a type or kind of something, the visible shape, style",
+    "meaning_ko": "형태, 종류; 양식; 형성하다"
+  },
+  {
+    "word": "forty",
+    "definition": "the number 40",
+    "meaning_ko": "40, 마흔"
+  },
+  {
+    "word": "forward",
+    "definition": "toward the front : to or toward what is ahead or in front",
+    "meaning_ko": "앞으로, 앞쪽으로"
+  },
+  {
+    "word": "four",
+    "definition": "the number 4",
+    "meaning_ko": "4, 넷"
+  },
+  {
+    "word": "free",
+    "definition": "without control by others",
+    "meaning_ko": "자유로운; 무료의"
+  },
+  {
+    "word": "friend",
+    "definition": "a person who you like and enjoy being with",
+    "meaning_ko": "친구"
+  },
+  {
+    "word": "from",
+    "definition": "indicating the starting point of motion or action",
+    "meaning_ko": "~로부터, ~에서"
+  },
+  {
+    "word": "front",
+    "definition": "the forward part of an object",
+    "meaning_ko": "앞, 정면"
+  },
+  {
+    "word": "full",
+    "definition": "containing or holding as much as possible",
+    "meaning_ko": "가득 찬, 배부른"
+  },
+  {
+    "word": "fun",
+    "definition": "someone or something that is amusing or enjoyable",
+    "meaning_ko": "재미, 즐거움"
+  },
+  {
+    "word": "fund",
+    "definition": "a sum of money that is used for a special purpose",
+    "meaning_ko": "기금, 자금"
+  },
+  {
+    "word": "funny",
+    "definition": "causing laughter",
+    "meaning_ko": "웃기는, 재미있는"
+  },
+  {
+    "word": "further",
+    "definition": "at a more distant place than here",
+    "meaning_ko": "더 멀리; 추가의"
+  },
+  {
+    "word": "future",
+    "definition": "the period of time coming after the present",
+    "meaning_ko": "미래"
+  },
+  {
+    "word": "game",
+    "definition": "one of the games that are part of a larger contest",
+    "meaning_ko": "게임, 경기"
+  },
+  {
+    "word": "general",
+    "definition": "widespread, normal or usual",
+    "meaning_ko": "일반적인, 전반적인"
+  },
+  {
+    "word": "get",
+    "definition": "to obtain, receive or be given something",
+    "meaning_ko": "얻다, 받다; ~하게 되다"
+  },
+  {
+    "word": "girl",
+    "definition": "a female child, a young woman",
+    "meaning_ko": "소녀, 여자아이"
+  },
+  {
+    "word": "give",
+    "definition": "to hand over or present something to another",
+    "meaning_ko": "주다"
+  },
+  {
+    "word": "go",
+    "definition": "to move or travel from one place to another",
+    "meaning_ko": "가다"
+  },
+  {
+    "word": "good",
+    "definition": "of high quality",
+    "meaning_ko": "좋은, 훌륭한"
+  },
+  {
+    "word": "government",
+    "definition": "the group of people who officially control a country",
+    "meaning_ko": "정부"
+  },
+  {
+    "word": "grade",
+    "definition": "a level of study that is completed by a student",
+    "meaning_ko": "학년; 성적, 등급"
+  },
+  {
+    "word": "great",
+    "definition": "very large in size, extent or amount",
+    "meaning_ko": "훌륭한, 대단한; 큰"
+  },
+  {
+    "word": "group",
+    "definition": "a number of people or things located or gathered together",
+    "meaning_ko": "그룹, 집단"
+  },
+  {
+    "word": "grow",
+    "definition": "to become larger",
+    "meaning_ko": "자라다, 성장하다"
+  },
+  {
+    "word": "guess",
+    "definition": "to form an opinion or give an answer about something when you do not know much or anything about it",
+    "meaning_ko": "추측하다; 추측"
+  },
+  {
+    "word": "guy",
+    "definition": "a man",
+    "meaning_ko": "남자, 녀석"
+  },
+  {
+    "word": "hair",
+    "definition": "a thin threadlike growth from the skin of a person or animal",
+    "meaning_ko": "머리카락, 털"
+  },
+  {
+    "word": "half",
+    "definition": "one of two equal parts something can be divided into",
+    "meaning_ko": "절반, 반"
+  },
+  {
+    "word": "hand",
+    "definition": "the body parts at the end of a person's arm",
+    "meaning_ko": "손; 건네주다"
+  },
+  {
+    "word": "hang",
+    "definition": "to attach or place something so that it is held up without support from below",
+    "meaning_ko": "걸다, 매달다"
+  },
+  {
+    "word": "happen",
+    "definition": "to take place or occur",
+    "meaning_ko": "일어나다, 발생하다"
+  },
+  {
+    "word": "happy",
+    "definition": "feeling pleasure and enjoyment because of your life",
+    "meaning_ko": "행복한, 기쁜"
+  },
+  {
+    "word": "hard",
+    "definition": "something that is firm or difficult to bend",
+    "meaning_ko": "딱딱한; 어려운; 열심히"
+  },
+  {
+    "word": "hate",
+    "definition": "a very strong feeling of dislike",
+    "meaning_ko": "싫어하다, 미워하다; 증오"
+  },
+  {
+    "word": "have",
+    "definition": "to own, possess, or hold something",
+    "meaning_ko": "가지다, 먹다; 경험하다"
+  },
+  {
+    "word": "he",
+    "definition": "used to refer to a male person that is the subject",
+    "meaning_ko": "그는, 그가"
+  },
+  {
+    "word": "head",
+    "definition": "the upper part of the body",
+    "meaning_ko": "머리; 책임자; 향하다"
+  },
+  {
+    "word": "health",
+    "definition": "the condition of being well or free from disease",
+    "meaning_ko": "건강"
+  },
+  {
+    "word": "hear",
+    "definition": "to be aware of sound, to perceive with the ear",
+    "meaning_ko": "듣다"
+  },
+  {
+    "word": "help",
+    "definition": "to assist in order to make it easier for someone to do a job",
+    "meaning_ko": "돕다, 도움"
+  },
+  {
+    "word": "here",
+    "definition": "in this place, at this location or position",
+    "meaning_ko": "여기, 이곳에"
+  },
+  {
+    "word": "high",
+    "definition": "rising upward a great distance",
+    "meaning_ko": "높은, 높이"
+  },
+  {
+    "word": "hit",
+    "definition": "to move your hand, a bat, etc., quickly so that it touches someone or something in a forceful or violent way",
+    "meaning_ko": "치다, 때리다; 맞히다"
+  },
+  {
+    "word": "hold",
+    "definition": "to have or keep in your hand",
+    "meaning_ko": "잡다, 들다; 개최하다"
+  },
+  {
+    "word": "holiday",
+    "definition": "a special day of celebration",
+    "meaning_ko": "휴일, 휴가"
+  },
+  {
+    "word": "home",
+    "definition": "the place where a person or a family lives",
+    "meaning_ko": "집, 가정"
+  },
+  {
+    "word": "hope",
+    "definition": "a feeling of expectation, to want something to happen",
+    "meaning_ko": "바라다, 희망하다; 희망"
+  },
+  {
+    "word": "hospital",
+    "definition": "a place where sick or injured people are given care or treatment and where children are often born",
+    "meaning_ko": "병원"
+  },
+  {
+    "word": "hot",
+    "definition": "having a high temperature",
+    "meaning_ko": "뜨거운, 더운; 인기 있는"
+  },
+  {
+    "word": "hour",
+    "definition": "a period of time equal to 60 minutes",
+    "meaning_ko": "시간, 한 시간"
+  },
+  {
+    "word": "house",
+    "definition": "a building in which a family lives",
+    "meaning_ko": "집, 주택"
+  },
+  {
+    "word": "how",
+    "definition": "by what means or manner?",
+    "meaning_ko": "어떻게, 얼마나"
+  },
+  {
+    "word": "hundred",
+    "definition": "the number 100",
+    "meaning_ko": "100, 백"
+  },
+  {
+    "word": "husband",
+    "definition": "a married man : the man someone is married to",
+    "meaning_ko": "남편"
+  },
+  {
+    "word": "I",
+    "definition": "the person who is speaking or writing",
+    "meaning_ko": "나, 나는"
+  },
+  {
+    "word": "idea",
+    "definition": "a thought, suggestion, opinion or plan",
+    "meaning_ko": "생각, 아이디어"
+  },
+  {
+    "word": "if",
+    "definition": "introducing a condition for something to happen",
+    "meaning_ko": "만약 ~라면"
+  },
+  {
+    "word": "imagine",
+    "definition": "to think of or create something in one's mind that is not real",
+    "meaning_ko": "상상하다"
+  },
+  {
+    "word": "important",
+    "definition": "having great significance",
+    "meaning_ko": "중요한"
+  },
+  {
+    "word": "in",
+    "definition": "used to indicate being inside of or surrounded by something else",
+    "meaning_ko": "~안에, ~에서"
+  },
+  {
+    "word": "include",
+    "definition": "to have as a part of a group",
+    "meaning_ko": "포함하다"
+  },
+  {
+    "word": "increase",
+    "definition": "to become larger or greater in size, amount, or degree",
+    "meaning_ko": "증가하다; 증가"
+  },
+  {
+    "word": "individual",
+    "definition": "existing as just one member",
+    "meaning_ko": "개인의; 개별적인 사람"
+  },
+  {
+    "word": "information",
+    "definition": "facts or data about a situation, person, event, etc.",
+    "meaning_ko": "정보"
+  },
+  {
+    "word": "instead",
+    "definition": "used to say that one thing is done or is chosen when another is not chosen",
+    "meaning_ko": "대신에"
+  },
+  {
+    "word": "interest",
+    "definition": "a feeling of wanting to know or learn about something",
+    "meaning_ko": "관심, 흥미; 이자"
+  },
+  {
+    "word": "into",
+    "definition": "introduce movement toward the inside of something",
+    "meaning_ko": "~안으로, ~속으로"
+  },
+  {
+    "word": "involve",
+    "definition": "to have or include in a part of something",
+    "meaning_ko": "포함하다, 관련시키다"
+  },
+  {
+    "word": "issue",
+    "definition": "problems that people are talking or thinking about",
+    "meaning_ko": "문제, 쟁점; 발행하다"
+  },
+  {
+    "word": "it",
+    "definition": "a thing that has been previously mentioned",
+    "meaning_ko": "그것은, 그것을"
+  },
+  {
+    "word": "item",
+    "definition": "an individual article, unit or piece of information",
+    "meaning_ko": "항목, 물품"
+  },
+  {
+    "word": "itself",
+    "definition": "the reflexive form of the pronoun 'it'",
+    "meaning_ko": "그것 자체"
+  },
+  {
+    "word": "job",
+    "definition": "the regular work of earning money",
+    "meaning_ko": "직업, 일자리"
+  },
+  {
+    "word": "just",
+    "definition": "exactly, to an exact degree or manner",
+    "meaning_ko": "그저, 단지; 방금"
+  },
+  {
+    "word": "keep",
+    "definition": "to continue holding or retaining possession of",
+    "meaning_ko": "유지하다, 계속하다; 보관하다"
+  },
+  {
+    "word": "kid",
+    "definition": "a child or young person",
+    "meaning_ko": "아이, 어린이"
+  },
+  {
+    "word": "kill",
+    "definition": "to cause the death of a person, animal or plant",
+    "meaning_ko": "죽이다"
+  },
+  {
+    "word": "kind",
+    "definition": "having a friendly, gentle nature",
+    "meaning_ko": "종류; 친절한"
+  },
+  {
+    "word": "know",
+    "definition": "to have in your mind, be aware of something",
+    "meaning_ko": "알다"
+  },
+  {
+    "word": "lady",
+    "definition": "a woman who behaves in a polite way",
+    "meaning_ko": "숙녀, 여성"
+  },
+  {
+    "word": "land",
+    "definition": "the solid part of the surface of the Earth",
+    "meaning_ko": "땅, 육지; 착륙하다"
+  },
+  {
+    "word": "language",
+    "definition": "the system of words or signs that people use to express thoughts and feelings to each other",
+    "meaning_ko": "언어"
+  },
+  {
+    "word": "large",
+    "definition": "great in size, extent, or capacity",
+    "meaning_ko": "큰, 넓은"
+  },
+  {
+    "word": "last",
+    "definition": "coming after others, final",
+    "meaning_ko": "마지막의; 지난; 지속하다"
+  },
+  {
+    "word": "late",
+    "definition": "happening near the end of a given time",
+    "meaning_ko": "늦은, 늦게"
+  },
+  {
+    "word": "laugh",
+    "definition": "to show that you are happy or that you think something is funny by smiling and making a sound from your throat",
+    "meaning_ko": "웃다; 웃음"
+  },
+  {
+    "word": "laughter",
+    "definition": "the action or sound of laughing",
+    "meaning_ko": "웃음, 웃는 소리"
+  },
+  {
+    "word": "law",
+    "definition": "the system or rules made by the government",
+    "meaning_ko": "법, 법률"
+  },
+  {
+    "word": "lead",
+    "definition": "to guide someone to a place , to go with, be in charge",
+    "meaning_ko": "이끌다, 안내하다; 선두"
+  },
+  {
+    "word": "learn",
+    "definition": "to acquire knowledge by study or experience",
+    "meaning_ko": "배우다, 익히다"
+  },
+  {
+    "word": "least",
+    "definition": "smallest in amount, extent or degree",
+    "meaning_ko": "가장 적은; 최소한"
+  },
+  {
+    "word": "leave",
+    "definition": "to go away from, depart from",
+    "meaning_ko": "떠나다; 남기다"
+  },
+  {
+    "word": "less",
+    "definition": "not so much, a smaller amount of",
+    "meaning_ko": "더 적은, 덜"
+  },
+  {
+    "word": "let",
+    "definition": "to allow or permit to do something",
+    "meaning_ko": "~하게 하다, 허락하다"
+  },
+  {
+    "word": "letter",
+    "definition": "a written, typed or printed message",
+    "meaning_ko": "편지; 글자"
+  },
+  {
+    "word": "level",
+    "definition": "a specific height or line",
+    "meaning_ko": "수준, 단계; 높이"
+  },
+  {
+    "word": "life",
+    "definition": "the existence of a human being or animal",
+    "meaning_ko": "삶, 생명"
+  },
+  {
+    "word": "light",
+    "definition": "the form of energy that makes things visible",
+    "meaning_ko": "빛; 가벼운"
+  },
+  {
+    "word": "like",
+    "definition": "to find something agreeable or enjoyable",
+    "meaning_ko": "좋아하다; ~처럼"
+  },
+  {
+    "word": "line",
+    "definition": "a long narrow mark or band on a surface",
+    "meaning_ko": "선, 줄; 대사"
+  },
+  {
+    "word": "list",
+    "definition": "a series of written names, words or numbers",
+    "meaning_ko": "목록; 목록을 작성하다"
+  },
+  {
+    "word": "listen",
+    "definition": "to pay attention to someone or something in order to hear what is being said, sung, played, etc.",
+    "meaning_ko": "귀 기울여 듣다"
+  },
+  {
+    "word": "little",
+    "definition": "small in size, amount, or degree",
+    "meaning_ko": "작은, 조금"
+  },
+  {
+    "word": "live",
+    "definition": "to be alive, to remain or continue to be alive",
+    "meaning_ko": "살다, 생활하다"
+  },
+  {
+    "word": "load",
+    "definition": "something that is lifted and carried",
+    "meaning_ko": "짐, 적재물; 싣다"
+  },
+  {
+    "word": "local",
+    "definition": "relating or restricted to a particular area, city, or town",
+    "meaning_ko": "지역의, 현지의"
+  },
+  {
+    "word": "long",
+    "definition": "extending a great distance",
+    "meaning_ko": "긴, 오랫동안"
+  },
+  {
+    "word": "look",
+    "definition": "to direct one's gaze in a particular direction",
+    "meaning_ko": "보다; ~처럼 보이다"
+  },
+  {
+    "word": "lose",
+    "definition": "to be unable to find something you once had",
+    "meaning_ko": "잃다, 지다"
+  },
+  {
+    "word": "lot",
+    "definition": "a small piece of land that is or could be used for building something or for some other purpose",
+    "meaning_ko": "많은 양; 부지"
+  },
+  {
+    "word": "love",
+    "definition": "feel great affection for",
+    "meaning_ko": "사랑하다; 사랑"
+  },
+  {
+    "word": "lovely",
+    "definition": "attractive or beautiful especially in a graceful way",
+    "meaning_ko": "사랑스러운, 아름다운"
+  },
+  {
+    "word": "low",
+    "definition": "not rising or extending upward",
+    "meaning_ko": "낮은, 저조한"
+  },
+  {
+    "word": "machine",
+    "definition": "a piece of equipment with moving parts that does work when it is given power from electricity, gasoline, etc.",
+    "meaning_ko": "기계"
+  },
+  {
+    "word": "main",
+    "definition": "most important",
+    "meaning_ko": "주요한, 가장 중요한"
+  },
+  {
+    "word": "major",
+    "definition": "important, serious, or large in number",
+    "meaning_ko": "주요한, 중대한"
+  },
+  {
+    "word": "make",
+    "definition": "to build, create, or produce something",
+    "meaning_ko": "만들다, 하다"
+  },
+  {
+    "word": "man",
+    "definition": "an adult male human being",
+    "meaning_ko": "남자, 성인 남성"
+  },
+  {
+    "word": "many",
+    "definition": "used to refer a large number of things",
+    "meaning_ko": "많은"
+  },
+  {
+    "word": "market",
+    "definition": "a place that products are bought and sold",
+    "meaning_ko": "시장"
+  },
+  {
+    "word": "marry",
+    "definition": "to become the husband or wife of (someone)",
+    "meaning_ko": "결혼하다"
+  },
+  {
+    "word": "mathematics",
+    "definition": "the study or science of numbers and shapes",
+    "meaning_ko": "수학"
+  },
+  {
+    "word": "matter",
+    "definition": "the physical substance things are made of",
+    "meaning_ko": "문제, 일; 중요하다"
+  },
+  {
+    "word": "may",
+    "definition": "used to express possibility or probability",
+    "meaning_ko": "~일지도 모른다; ~해도 된다"
+  },
+  {
+    "word": "maybe",
+    "definition": "possibly but not certainly : perhaps",
+    "meaning_ko": "아마, 어쩌면"
+  },
+  {
+    "word": "mean",
+    "definition": "to have in mind as your purpose or intention",
+    "meaning_ko": "의미하다; 못된"
+  },
+  {
+    "word": "meet",
+    "definition": "to be introduced for the first time",
+    "meaning_ko": "만나다"
+  },
+  {
+    "word": "member",
+    "definition": "a person or country belonging to a group or team",
+    "meaning_ko": "회원, 구성원"
+  },
+  {
+    "word": "mention",
+    "definition": "to talk about, write about, or refer to (something or someone) especially in a brief way",
+    "meaning_ko": "언급하다; 언급"
+  },
+  {
+    "word": "middle",
+    "definition": "equally distant from the ends or sides : halfway between two points",
+    "meaning_ko": "가운데, 중간"
+  },
+  {
+    "word": "might",
+    "definition": "to say something is possible",
+    "meaning_ko": "~일지도 모른다"
+  },
+  {
+    "word": "mile",
+    "definition": "a unit of measurement used in the US that is about 1600 meters",
+    "meaning_ko": "마일(약 1.6km)"
+  },
+  {
+    "word": "million",
+    "definition": "the number 1000000",
+    "meaning_ko": "백만"
+  },
+  {
+    "word": "mind",
+    "definition": "the part of person that enables us to think, feel, and reason",
+    "meaning_ko": "마음, 정신; 꺼리다"
+  },
+  {
+    "word": "mine",
+    "definition": "that which belongs to me : my one : my ones",
+    "meaning_ko": "내 것; 광산"
+  },
+  {
+    "word": "minute",
+    "definition": "a period of time equal to 60 seconds",
+    "meaning_ko": "분; 아주 짧은 시간"
+  },
+  {
+    "word": "miss",
+    "definition": "to fail to hit, catch, reach, or get (something)",
+    "meaning_ko": "놓치다; 그리워하다"
+  },
+  {
+    "word": "moment",
+    "definition": "a very short or brief period of time",
+    "meaning_ko": "순간"
+  },
+  {
+    "word": "money",
+    "definition": "something used to pay for goods and services",
+    "meaning_ko": "돈"
+  },
+  {
+    "word": "month",
+    "definition": "one of the 12 periods of time a year is broken into",
+    "meaning_ko": "달, 개월"
+  },
+  {
+    "word": "more",
+    "definition": "greater in amount, number, or size",
+    "meaning_ko": "더 많은, 더 많이"
+  },
+  {
+    "word": "morning",
+    "definition": "the early part of the day",
+    "meaning_ko": "아침"
+  },
+  {
+    "word": "most",
+    "definition": "almost all of something",
+    "meaning_ko": "대부분; 가장 많은"
+  },
+  {
+    "word": "mother",
+    "definition": "a female who has a child or children",
+    "meaning_ko": "어머니"
+  },
+  {
+    "word": "move",
+    "definition": "to cause to go in a specified direction or manner",
+    "meaning_ko": "움직이다, 옮기다; 이사하다"
+  },
+  {
+    "word": "movie",
+    "definition": "a film or video",
+    "meaning_ko": "영화"
+  },
+  {
+    "word": "much",
+    "definition": "large in amount or extent",
+    "meaning_ko": "많은, 많이"
+  },
+  {
+    "word": "music",
+    "definition": "the art of making sounds that are sung or played",
+    "meaning_ko": "음악"
+  },
+  {
+    "word": "must",
+    "definition": "used to say that something is required or necessary",
+    "meaning_ko": "반드시 ~해야 한다"
+  },
+  {
+    "word": "myself",
+    "definition": "the reflexive form of the pronouns 'me' or 'I'",
+    "meaning_ko": "나 자신"
+  },
+  {
+    "word": "name",
+    "definition": "a word that addressed or refers to a specific person",
+    "meaning_ko": "이름; 이름을 붙이다"
+  },
+  {
+    "word": "national",
+    "definition": "relating to the whole of a country",
+    "meaning_ko": "국가의, 전국적인"
+  },
+  {
+    "word": "near",
+    "definition": "close to something",
+    "meaning_ko": "가까운, 근처에"
+  },
+  {
+    "word": "need",
+    "definition": "require because it is essential or important",
+    "meaning_ko": "필요하다; 필요"
+  },
+  {
+    "word": "never",
+    "definition": "not ever, not at any time",
+    "meaning_ko": "절대 ~않다, 결코"
+  },
+  {
+    "word": "new",
+    "definition": "not old, recently born, built or created",
+    "meaning_ko": "새로운, 새것의"
+  },
+  {
+    "word": "news",
+    "definition": "new information or a report about something that has happened recently",
+    "meaning_ko": "뉴스, 소식"
+  },
+  {
+    "word": "next",
+    "definition": "coming immediately after this time",
+    "meaning_ko": "다음의"
+  },
+  {
+    "word": "nice",
+    "definition": "giving pleasure or joy : good and enjoyable",
+    "meaning_ko": "좋은, 친절한"
+  },
+  {
+    "word": "night",
+    "definition": "the period of time of darkness between sunset and sunrise",
+    "meaning_ko": "밤"
+  },
+  {
+    "word": "nine",
+    "definition": "the number 9",
+    "meaning_ko": "9, 아홉"
+  },
+  {
+    "word": "nineteen",
+    "definition": "the number 19",
+    "meaning_ko": "19, 열아홉"
+  },
+  {
+    "word": "ninety",
+    "definition": "the number 90",
+    "meaning_ko": "90, 아흔"
+  },
+  {
+    "word": "no",
+    "definition": "not at all, in a way that shows a negative response",
+    "meaning_ko": "아니; 없는"
+  },
+  {
+    "word": "nobody",
+    "definition": "no person, no one",
+    "meaning_ko": "아무도 ~않다, 아무도 없음"
+  },
+  {
+    "word": "noise",
+    "definition": "a loud or unpleasant sound",
+    "meaning_ko": "소음, 시끄러운 소리"
+  },
+  {
+    "word": "normally",
+    "definition": "usually",
+    "meaning_ko": "보통, 대개"
+  },
+  {
+    "word": "not",
+    "definition": "used to make an expression negative",
+    "meaning_ko": "~아니다, ~않다"
+  },
+  {
+    "word": "note",
+    "definition": "a brief, short record of something",
+    "meaning_ko": "메모, 짧은 기록; 주목하다"
+  },
+  {
+    "word": "nothing",
+    "definition": "not anything, no a single thing",
+    "meaning_ko": "아무것도 없음"
+  },
+  {
+    "word": "notice",
+    "definition": "to become aware of (something or someone) by seeing, hearing, etc.",
+    "meaning_ko": "알아차리다; 공지, 안내문"
+  },
+  {
+    "word": "now",
+    "definition": "at the present time or moment",
+    "meaning_ko": "지금, 현재"
+  },
+  {
+    "word": "number",
+    "definition": "a word or symbol that stands for a specific amount or quantity",
+    "meaning_ko": "숫자, 번호; 수"
+  },
+  {
+    "word": "obviously",
+    "definition": "in a way that is easy to understand or see",
+    "meaning_ko": "분명히, 명백하게"
+  },
+  {
+    "word": "of",
+    "definition": "belonging to or connected with something",
+    "meaning_ko": "~의"
+  },
+  {
+    "word": "off",
+    "definition": "away from a place or at a distance",
+    "meaning_ko": "떨어져; 꺼진"
+  },
+  {
+    "word": "offer",
+    "definition": "to give someone the opportunity to accept something",
+    "meaning_ko": "제안하다, 제공하다; 제안"
+  },
+  {
+    "word": "office",
+    "definition": "a building of set of rooms used to do business or professional activities",
+    "meaning_ko": "사무실, 회사"
+  },
+  {
+    "word": "often",
+    "definition": "many times, frequently, on many occasions",
+    "meaning_ko": "자주, 종종"
+  },
+  {
+    "word": "okay",
+    "definition": "used when agreeing to do something or when allowing someone to do something",
+    "meaning_ko": "괜찮은, 알겠어"
+  },
+  {
+    "word": "old",
+    "definition": "having lived for many years, no longer young",
+    "meaning_ko": "오래된; 나이 든"
+  },
+  {
+    "word": "on",
+    "definition": "touching and being supported or physically in contact by something",
+    "meaning_ko": "~위에; 켜진"
+  },
+  {
+    "word": "once",
+    "definition": "one time only",
+    "meaning_ko": "한 번; 일단 ~하면"
+  },
+  {
+    "word": "one",
+    "definition": "the number 1, a single person or thing",
+    "meaning_ko": "하나, 한 사람"
+  },
+  {
+    "word": "only",
+    "definition": "alone in a class or category",
+    "meaning_ko": "오직, 단지"
+  },
+  {
+    "word": "open",
+    "definition": "not closed",
+    "meaning_ko": "열다; 열린"
+  },
+  {
+    "word": "opportunity",
+    "definition": "an amount of time or a situation in which something can be done",
+    "meaning_ko": "기회"
+  },
+  {
+    "word": "or",
+    "definition": "used to link alternatives, to introduce another choice",
+    "meaning_ko": "또는, 혹은"
+  },
+  {
+    "word": "order",
+    "definition": "an instruction or direction that must be obeyed",
+    "meaning_ko": "순서; 주문하다; 명령"
+  },
+  {
+    "word": "other",
+    "definition": "used to mention a person or thing is different from already mentioned",
+    "meaning_ko": "다른, 그 밖의"
+  },
+  {
+    "word": "ought",
+    "definition": "used to indicate what is expected",
+    "meaning_ko": "~해야 한다"
+  },
+  {
+    "word": "out",
+    "definition": "in a direction or movement away from the inside or center",
+    "meaning_ko": "밖에, 밖으로"
+  },
+  {
+    "word": "outside",
+    "definition": "an area around or near something such as a building",
+    "meaning_ko": "밖, 외부; 바깥의"
+  },
+  {
+    "word": "over",
+    "definition": "in an upward direction across something",
+    "meaning_ko": "위에; 끝난; ~이상"
+  },
+  {
+    "word": "own",
+    "definition": "when something belongs to someone",
+    "meaning_ko": "자신의; 소유하다"
+  },
+  {
+    "word": "page",
+    "definition": "one side of a sheet of paper especially in a book, magazine, etc.",
+    "meaning_ko": "페이지, 쪽"
+  },
+  {
+    "word": "paper",
+    "definition": "the material that is used in the form of thin sheets for writing",
+    "meaning_ko": "종이; 논문, 서류"
+  },
+  {
+    "word": "parent",
+    "definition": "a person who is a father or mother",
+    "meaning_ko": "부모"
+  },
+  {
+    "word": "park",
+    "definition": "a piece of public land in or near a city that can be used for pleasure and exercise",
+    "meaning_ko": "공원; 주차하다"
+  },
+  {
+    "word": "part",
+    "definition": "one of the pieces of a whole",
+    "meaning_ko": "부분, 일부"
+  },
+  {
+    "word": "particular",
+    "definition": "used to single out an individual member",
+    "meaning_ko": "특정한, 특별한"
+  },
+  {
+    "word": "particularly",
+    "definition": "especially",
+    "meaning_ko": "특히, 특별히"
+  },
+  {
+    "word": "party",
+    "definition": "an organization of people who have the same political beliefs",
+    "meaning_ko": "정당; 파티, 모임"
+  },
+  {
+    "word": "pass",
+    "definition": "to move past something",
+    "meaning_ko": "지나가다; 건네주다; 통과하다"
+  },
+  {
+    "word": "past",
+    "definition": "a time before the present",
+    "meaning_ko": "과거; 지난"
+  },
+  {
+    "word": "pause",
+    "definition": "a temporary stop : a period of time in which something is stopped before it is started again",
+    "meaning_ko": "잠시 멈춤; 멈추다"
+  },
+  {
+    "word": "pay",
+    "definition": "give money for goods or work done",
+    "meaning_ko": "지불하다, 돈을 내다"
+  },
+  {
+    "word": "people",
+    "definition": "human beings in general, plural of person",
+    "meaning_ko": "사람들"
+  },
+  {
+    "word": "per",
+    "definition": "for each one, by means of, as directed by or stated in",
+    "meaning_ko": "~당, 각각"
+  },
+  {
+    "word": "percent",
+    "definition": "a certain part of a whole",
+    "meaning_ko": "퍼센트, 백분율"
+  },
+  {
+    "word": "perhaps",
+    "definition": "possibly but not certainly, maybe",
+    "meaning_ko": "아마, 어쩌면"
+  },
+  {
+    "word": "period",
+    "definition": "a length or portion of time during a series of events",
+    "meaning_ko": "기간, 시기; 마침표"
+  },
+  {
+    "word": "person",
+    "definition": "a human being",
+    "meaning_ko": "사람, 개인"
+  },
+  {
+    "word": "phone",
+    "definition": "a communication system that is used to talk to someone who is in another place",
+    "meaning_ko": "전화, 전화기"
+  },
+  {
+    "word": "pick",
+    "definition": "to choose or select (someone or something) from a group",
+    "meaning_ko": "고르다, 선택하다; 집어 들다"
+  },
+  {
+    "word": "picture",
+    "definition": "a painting, drawing or photograph on paper or screen",
+    "meaning_ko": "그림, 사진"
+  },
+  {
+    "word": "piece",
+    "definition": "a part that is cut or separated from a whole",
+    "meaning_ko": "조각, 부분"
+  },
+  {
+    "word": "place",
+    "definition": "a particular area or region",
+    "meaning_ko": "장소, 곳; 놓다"
+  },
+  {
+    "word": "plan",
+    "definition": "a set of actions as a way to do, detailed proposal for doing",
+    "meaning_ko": "계획; 계획하다"
+  },
+  {
+    "word": "play",
+    "definition": "to do activities for fun or enjoyment",
+    "meaning_ko": "놀다; 경기하다; 연주하다"
+  },
+  {
+    "word": "please",
+    "definition": "used to ask for something in a polite way",
+    "meaning_ko": "부디, 제발; 기쁘게 하다"
+  },
+  {
+    "word": "plus",
+    "definition": "having a value that is above zero",
+    "meaning_ko": "더하기; 플러스의"
+  },
+  {
+    "word": "point",
+    "definition": "an idea that you try to make others accept or understand",
+    "meaning_ko": "요점, 점; 가리키다"
+  },
+  {
+    "word": "police",
+    "definition": "the people or the department of people who enforce laws, investigate crimes, and make arrests",
+    "meaning_ko": "경찰, 경찰관"
+  },
+  {
+    "word": "policy",
+    "definition": "a course of action proposed by an organization",
+    "meaning_ko": "정책, 방침"
+  },
+  {
+    "word": "position",
+    "definition": "the place something is located in",
+    "meaning_ko": "위치, 입장; 직책"
+  },
+  {
+    "word": "possible",
+    "definition": "to be able to be done",
+    "meaning_ko": "가능한"
+  },
+  {
+    "word": "pound",
+    "definition": "a unit of weight that is equal to 16 ounces or 0.4536 kilograms",
+    "meaning_ko": "파운드(무게 단위); 두드리다"
+  },
+  {
+    "word": "power",
+    "definition": "the ability, capacity or right to control things",
+    "meaning_ko": "힘, 권력, 전력"
+  },
+  {
+    "word": "present",
+    "definition": "existing or happening now, not in the past or future",
+    "meaning_ko": "현재의; 참석한; 선물"
+  },
+  {
+    "word": "press",
+    "definition": "newspapers, magazines, and TV news reports",
+    "meaning_ko": "언론, 언론계; 누르다"
+  },
+  {
+    "word": "pretty",
+    "definition": "large or impressive",
+    "meaning_ko": "예쁜; 꽤, 상당히"
+  },
+  {
+    "word": "price",
+    "definition": "the amount of money that you pay for something or that something costs",
+    "meaning_ko": "가격, 값"
+  },
+  {
+    "word": "probably",
+    "definition": "used to mean that something is very likely",
+    "meaning_ko": "아마, 십중팔구"
+  },
+  {
+    "word": "problem",
+    "definition": "something that is difficult to deal with or needs to overcome",
+    "meaning_ko": "문제, 어려움"
+  },
+  {
+    "word": "process",
+    "definition": "a series of actions that produce achievement",
+    "meaning_ko": "과정, 절차"
+  },
+  {
+    "word": "produce",
+    "definition": "to use machines to make something from raw materials",
+    "meaning_ko": "생산하다, 만들어 내다"
+  },
+  {
+    "word": "product",
+    "definition": "something that is made or grown to be sold or used",
+    "meaning_ko": "제품, 상품"
+  },
+  {
+    "word": "program",
+    "definition": "a plan of things that are done to achieve a result",
+    "meaning_ko": "프로그램, 계획"
+  },
+  {
+    "word": "project",
+    "definition": "a planned piece of work for specific purpose",
+    "meaning_ko": "프로젝트, 계획"
+  },
+  {
+    "word": "provide",
+    "definition": "to make available, to supply for use",
+    "meaning_ko": "제공하다, 공급하다"
+  },
+  {
+    "word": "public",
+    "definition": "concerning or affecting all or most of the people in a group",
+    "meaning_ko": "대중의, 공공의"
+  },
+  {
+    "word": "pull",
+    "definition": "to hold onto and move (someone or something) in a particular direction and especially toward yourself",
+    "meaning_ko": "당기다, 끌다"
+  },
+  {
+    "word": "purpose",
+    "definition": "the reason for which something is done",
+    "meaning_ko": "목적, 의도"
+  },
+  {
+    "word": "push",
+    "definition": "to use force to move (someone or something) forward or away from you",
+    "meaning_ko": "밀다, 떠밀다"
+  },
+  {
+    "word": "put",
+    "definition": "to move or place in a particular position",
+    "meaning_ko": "놓다, 두다"
+  },
+  {
+    "word": "quality",
+    "definition": "how good or bad something is",
+    "meaning_ko": "품질, 질; 특성"
+  },
+  {
+    "word": "question",
+    "definition": "to ask for or elicit information",
+    "meaning_ko": "질문; 질문하다"
+  },
+  {
+    "word": "quick",
+    "definition": "done or happening in a short amount of time",
+    "meaning_ko": "빠른, 신속한"
+  },
+  {
+    "word": "quite",
+    "definition": "to a very large degree, very",
+    "meaning_ko": "꽤, 상당히; 완전히"
+  },
+  {
+    "word": "raise",
+    "definition": "to lift or move something to a higher position",
+    "meaning_ko": "올리다, 들어 올리다; 기르다"
+  },
+  {
+    "word": "rate",
+    "definition": "the measure of speed or frequency over a particular period of time",
+    "meaning_ko": "비율, 속도; 평가하다"
+  },
+  {
+    "word": "rather",
+    "definition": "to a certain extent",
+    "meaning_ko": "꽤, 다소; 오히려"
+  },
+  {
+    "word": "read",
+    "definition": "to look at and comprehend the meaning of something written",
+    "meaning_ko": "읽다"
+  },
+  {
+    "word": "ready",
+    "definition": "prepared to do something",
+    "meaning_ko": "준비된"
+  },
+  {
+    "word": "real",
+    "definition": "actually existing or happening, not imagined or supposed",
+    "meaning_ko": "진짜의, 실제의"
+  },
+  {
+    "word": "realize",
+    "definition": "to understand or become aware of something",
+    "meaning_ko": "깨닫다, 알아차리다"
+  },
+  {
+    "word": "really",
+    "definition": "very or very much",
+    "meaning_ko": "정말, 실제로"
+  },
+  {
+    "word": "reason",
+    "definition": "a cause for an action or event",
+    "meaning_ko": "이유, 원인; 추론하다"
+  },
+  {
+    "word": "receive",
+    "definition": "to get or be presented with something",
+    "meaning_ko": "받다, 수령하다"
+  },
+  {
+    "word": "record",
+    "definition": "an official piece of evidence or document about past events",
+    "meaning_ko": "기록; 기록하다"
+  },
+  {
+    "word": "red",
+    "definition": "having the color of blood",
+    "meaning_ko": "빨간, 붉은"
+  },
+  {
+    "word": "relate",
+    "definition": "to show or make a connection between (two or more things)",
+    "meaning_ko": "관련시키다, 연관되다"
+  },
+  {
+    "word": "relationship",
+    "definition": "a connection between two or more people or things",
+    "meaning_ko": "관계"
+  },
+  {
+    "word": "remember",
+    "definition": "to bring a previous image or idea to your mind",
+    "meaning_ko": "기억하다"
+  },
+  {
+    "word": "report",
+    "definition": "a story given about a particular matter",
+    "meaning_ko": "보고하다; 보고서, 보도"
+  },
+  {
+    "word": "require",
+    "definition": "to need something, to make it necessary",
+    "meaning_ko": "필요로 하다, 요구하다"
+  },
+  {
+    "word": "research",
+    "definition": "careful study to find and report new knowledge",
+    "meaning_ko": "연구, 조사"
+  },
+  {
+    "word": "response",
+    "definition": "an answer or reaction to something that has been said or done",
+    "meaning_ko": "응답, 반응"
+  },
+  {
+    "word": "rest",
+    "definition": "not at work, to have time to relax, sleep or do nothing",
+    "meaning_ko": "쉬다, 휴식; 나머지"
+  },
+  {
+    "word": "result",
+    "definition": "a thing that is caused by something else that happened",
+    "meaning_ko": "결과; ~의 결과가 되다"
+  },
+  {
+    "word": "review",
+    "definition": "an act of carefully looking at or examining the quality or condition of something or someone",
+    "meaning_ko": "검토, 복습; 후기"
+  },
+  {
+    "word": "right",
+    "definition": "to be true, correct or acceptable",
+    "meaning_ko": "옳은, 오른쪽; 권리"
+  },
+  {
+    "word": "ring",
+    "definition": "a piece of jewelry that is worn usually on a finger",
+    "meaning_ko": "반지; 울리다"
+  },
+  {
+    "word": "road",
+    "definition": "a hard flat surface for people or vehicles can use",
+    "meaning_ko": "도로, 길"
+  },
+  {
+    "word": "room",
+    "definition": "a space that can be occupied which has its own floor and ceiling",
+    "meaning_ko": "방; 공간"
+  },
+  {
+    "word": "round",
+    "definition": "shaped like a circle or ball",
+    "meaning_ko": "둥근; 한 차례"
+  },
+  {
+    "word": "rule",
+    "definition": "something that is not allowed in some situations",
+    "meaning_ko": "규칙, 규정; 지배하다"
+  },
+  {
+    "word": "run",
+    "definition": "to move with your legs at a speed that is faster than walking",
+    "meaning_ko": "달리다; 운영하다"
+  },
+  {
+    "word": "sale",
+    "definition": "the act of selling something or exchanging for money",
+    "meaning_ko": "판매, 세일"
+  },
+  {
+    "word": "same",
+    "definition": "identical, not different",
+    "meaning_ko": "같은, 동일한"
+  },
+  {
+    "word": "save",
+    "definition": "to keep (someone or something) safe : to stop (someone or something) from dying or being hurt, damaged, or lost",
+    "meaning_ko": "구하다; 저장하다; 아끼다"
+  },
+  {
+    "word": "say",
+    "definition": "to use your voice to express something with words",
+    "meaning_ko": "말하다"
+  },
+  {
+    "word": "school",
+    "definition": "a place where children go to learn",
+    "meaning_ko": "학교"
+  },
+  {
+    "word": "score",
+    "definition": "the number of points someone gets in a game or test",
+    "meaning_ko": "점수, 득점"
+  },
+  {
+    "word": "second",
+    "definition": "a unit of time, one sixtieth of a minute",
+    "meaning_ko": "초; 두 번째의"
+  },
+  {
+    "word": "see",
+    "definition": "to notice or become aware of with the eyes",
+    "meaning_ko": "보다, 만나다"
+  },
+  {
+    "word": "seem",
+    "definition": "to appear to be something",
+    "meaning_ko": "~인 것 같다"
+  },
+  {
+    "word": "sell",
+    "definition": "to exchange (something) for money",
+    "meaning_ko": "팔다"
+  },
+  {
+    "word": "send",
+    "definition": "to cause to go to another destination",
+    "meaning_ko": "보내다"
+  },
+  {
+    "word": "sense",
+    "definition": "one of our natural abilities for receiving information",
+    "meaning_ko": "감각; 의미, 느낌"
+  },
+  {
+    "word": "service",
+    "definition": "the action of helping or doing work for someone",
+    "meaning_ko": "서비스, 봉사; 업무"
+  },
+  {
+    "word": "set",
+    "definition": "to put or stand something in a place or position",
+    "meaning_ko": "놓다, 설정하다; 한 세트"
+  },
+  {
+    "word": "seven",
+    "definition": "the number 7",
+    "meaning_ko": "7, 일곱"
+  },
+  {
+    "word": "seventy",
+    "definition": "the number 70",
+    "meaning_ko": "70, 일흔"
+  },
+  {
+    "word": "several",
+    "definition": "more than two but not many",
+    "meaning_ko": "몇몇의, 여러"
+  },
+  {
+    "word": "shall",
+    "definition": "expressing the future tense, to expect to happen",
+    "meaning_ko": "~할 것이다; ~해야 한다"
+  },
+  {
+    "word": "share",
+    "definition": "to have or use something with others",
+    "meaning_ko": "나누다, 공유하다; 몫"
+  },
+  {
+    "word": "she",
+    "definition": "used to refer to a female that is the subject",
+    "meaning_ko": "그녀는, 그녀가"
+  },
+  {
+    "word": "shop",
+    "definition": "a building or room where goods and services are sold",
+    "meaning_ko": "가게, 상점; 쇼핑하다"
+  },
+  {
+    "word": "short",
+    "definition": "a small distance from one end to the other",
+    "meaning_ko": "짧은, 키가 작은"
+  },
+  {
+    "word": "should",
+    "definition": "used to indicate what is proper or reasonable",
+    "meaning_ko": "~해야 한다"
+  },
+  {
+    "word": "show",
+    "definition": "to cause or allow to be seen",
+    "meaning_ko": "보여주다; 공연, 쇼"
+  },
+  {
+    "word": "side",
+    "definition": "a position or direction that is away from the center",
+    "meaning_ko": "옆, 측면"
+  },
+  {
+    "word": "sign",
+    "definition": "something which shows that something else exists, is true, or will happen",
+    "meaning_ko": "표지, 표시; 서명하다"
+  },
+  {
+    "word": "since",
+    "definition": "because, for the reason that",
+    "meaning_ko": "~이후로; ~이기 때문에"
+  },
+  {
+    "word": "sing",
+    "definition": "to use your voice to make musical sounds in the form of a song or tune",
+    "meaning_ko": "노래하다"
+  },
+  {
+    "word": "single",
+    "definition": "not having or including another, only one",
+    "meaning_ko": "단 하나의; 독신의"
+  },
+  {
+    "word": "sister",
+    "definition": "a girl or woman who has one or both of the same parents as you",
+    "meaning_ko": "자매, 여자 형제"
+  },
+  {
+    "word": "sit",
+    "definition": "to be in a resting position on a chair or couch",
+    "meaning_ko": "앉다"
+  },
+  {
+    "word": "site",
+    "definition": "the place where something is, was, or will be located",
+    "meaning_ko": "장소, 현장; 웹사이트"
+  },
+  {
+    "word": "situation",
+    "definition": "a condition, location or position",
+    "meaning_ko": "상황, 처지"
+  },
+  {
+    "word": "six",
+    "definition": "the number 6",
+    "meaning_ko": "6, 여섯"
+  },
+  {
+    "word": "sixty",
+    "definition": "the number 60",
+    "meaning_ko": "60, 예순"
+  },
+  {
+    "word": "size",
+    "definition": "the total amount of physical space that a person or thing occupies",
+    "meaning_ko": "크기, 규모"
+  },
+  {
+    "word": "sleep",
+    "definition": "to rest your mind and body by closing your eyes and becoming unconscious",
+    "meaning_ko": "잠자다; 수면"
+  },
+  {
+    "word": "small",
+    "definition": "little in size, not great in amount",
+    "meaning_ko": "작은, 적은"
+  },
+  {
+    "word": "so",
+    "definition": "to a degree that is suggested or stated",
+    "meaning_ko": "그래서; 매우, 그렇게"
+  },
+  {
+    "word": "some",
+    "definition": "used to refer to an unspecified amount or number",
+    "meaning_ko": "몇몇의, 약간의"
+  },
+  {
+    "word": "somebody",
+    "definition": "person who is not known, named, or specified",
+    "meaning_ko": "누군가, 어떤 사람"
+  },
+  {
+    "word": "someone",
+    "definition": "some person; somebody",
+    "meaning_ko": "누군가"
+  },
+  {
+    "word": "something",
+    "definition": "a thing that is not yet know, specified or named",
+    "meaning_ko": "무언가"
+  },
+  {
+    "word": "sometimes",
+    "definition": "occasionally; only at certain times,",
+    "meaning_ko": "때때로, 가끔"
+  },
+  {
+    "word": "somewhere",
+    "definition": "in, at, or to a place not known, named, or specified",
+    "meaning_ko": "어딘가에, 어딘가로"
+  },
+  {
+    "word": "soon",
+    "definition": "at a time not long from now",
+    "meaning_ko": "곧, 머지않아"
+  },
+  {
+    "word": "sorry",
+    "definition": "feeling sorrow or regret",
+    "meaning_ko": "미안한, 유감스러운"
+  },
+  {
+    "word": "sort",
+    "definition": "a group of people or things that have some shared quality",
+    "meaning_ko": "종류; 분류하다"
+  },
+  {
+    "word": "sound",
+    "definition": "something that is heard",
+    "meaning_ko": "소리; ~처럼 들리다"
+  },
+  {
+    "word": "speak",
+    "definition": "to use words to tell information or express thoughts",
+    "meaning_ko": "말하다, 이야기하다"
+  },
+  {
+    "word": "special",
+    "definition": "different from what is usual, better or greater than normal",
+    "meaning_ko": "특별한"
+  },
+  {
+    "word": "specific",
+    "definition": "special or particular, clearly presented or stated",
+    "meaning_ko": "구체적인, 특정한"
+  },
+  {
+    "word": "spend",
+    "definition": "to use money to pay for something",
+    "meaning_ko": "(시간·돈을) 쓰다, 보내다"
+  },
+  {
+    "word": "staff",
+    "definition": "a group of people who work for an organization or business",
+    "meaning_ko": "직원, 직원들"
+  },
+  {
+    "word": "stage",
+    "definition": "a particular point in a process",
+    "meaning_ko": "단계, 무대"
+  },
+  {
+    "word": "stand",
+    "definition": "to be in an upright position supported by on your feet",
+    "meaning_ko": "서다; 견디다"
+  },
+  {
+    "word": "standard",
+    "definition": "a level of quality or achievement that is considered acceptable",
+    "meaning_ko": "기준, 표준; 일반적인"
+  },
+  {
+    "word": "start",
+    "definition": "to begin doing something",
+    "meaning_ko": "시작하다; 출발하다"
+  },
+  {
+    "word": "state",
+    "definition": "a way of living or existing",
+    "meaning_ko": "상태; 진술하다; 주"
+  },
+  {
+    "word": "statement",
+    "definition": "something that someone says or writes officially",
+    "meaning_ko": "진술, 성명서"
+  },
+  {
+    "word": "stay",
+    "definition": "to continue to be in the same place; remain",
+    "meaning_ko": "머무르다, 계속 ~이다"
+  },
+  {
+    "word": "step",
+    "definition": "moving by lifting a foot and putting it down in a different place",
+    "meaning_ko": "걸음, 단계"
+  },
+  {
+    "word": "stick",
+    "definition": "a cut or broken branch or twig",
+    "meaning_ko": "막대기; 붙이다, 달라붙다"
+  },
+  {
+    "word": "still",
+    "definition": "used to express that an action or condition continues",
+    "meaning_ko": "여전히, 아직도"
+  },
+  {
+    "word": "stop",
+    "definition": "to not move or come to an end",
+    "meaning_ko": "멈추다; 정류장"
+  },
+  {
+    "word": "story",
+    "definition": "a description of how something happened",
+    "meaning_ko": "이야기, 사연"
+  },
+  {
+    "word": "straight",
+    "definition": "not having curves, bends, or angles",
+    "meaning_ko": "똑바른, 곧은"
+  },
+  {
+    "word": "street",
+    "definition": "a public road in a city or town",
+    "meaning_ko": "거리, 도로"
+  },
+  {
+    "word": "strong",
+    "definition": "having physical power or strength",
+    "meaning_ko": "강한, 튼튼한"
+  },
+  {
+    "word": "student",
+    "definition": "a person who attends a school",
+    "meaning_ko": "학생"
+  },
+  {
+    "word": "study",
+    "definition": "devoting time to learn about something",
+    "meaning_ko": "공부하다; 연구"
+  },
+  {
+    "word": "stuff",
+    "definition": "materials, supplies, or equipment",
+    "meaning_ko": "물건, 것들; 재료"
+  },
+  {
+    "word": "subject",
+    "definition": "the thing being discussed or described",
+    "meaning_ko": "주제, 과목"
+  },
+  {
+    "word": "such",
+    "definition": "like or similar",
+    "meaning_ko": "그러한, 그런"
+  },
+  {
+    "word": "suggest",
+    "definition": "to mention something as a possible thing to be done",
+    "meaning_ko": "제안하다, 권하다"
+  },
+  {
+    "word": "summer",
+    "definition": "the warmest season of the year that is after spring and before autumn",
+    "meaning_ko": "여름"
+  },
+  {
+    "word": "support",
+    "definition": "to give assistance to",
+    "meaning_ko": "지원하다, 지지하다; 지원"
+  },
+  {
+    "word": "suppose",
+    "definition": "to think of something as happening or being true in order to imagine what might happen",
+    "meaning_ko": "생각하다, 추측하다"
+  },
+  {
+    "word": "sure",
+    "definition": "completely confident of being right, not having any doubt",
+    "meaning_ko": "확신하는, 확실한"
+  },
+  {
+    "word": "surprise",
+    "definition": "an unexpected event, piece of information, etc.",
+    "meaning_ko": "놀라움, 뜻밖의 일; 놀라게 하다"
+  },
+  {
+    "word": "system",
+    "definition": "a set of related parts that move or work together",
+    "meaning_ko": "체계, 시스템"
+  },
+  {
+    "word": "table",
+    "definition": "a piece of furniture with a flat top and legs",
+    "meaning_ko": "탁자, 테이블; 표"
+  },
+  {
+    "word": "take",
+    "definition": "to carry or move with one's hands, to reach for",
+    "meaning_ko": "가져가다, 데려가다; (시간이) 걸리다"
+  },
+  {
+    "word": "talk",
+    "definition": "using words to express opinions or give information",
+    "meaning_ko": "말하다, 대화하다; 대화"
+  },
+  {
+    "word": "tape",
+    "definition": "a long, narrow piece of material used to stick things",
+    "meaning_ko": "테이프"
+  },
+  {
+    "word": "tax",
+    "definition": "money that a government requires people to pay",
+    "meaning_ko": "세금"
+  },
+  {
+    "word": "tea",
+    "definition": "a drink that is made by soaking the dried leaves of an Asian plant in hot water",
+    "meaning_ko": "차"
+  },
+  {
+    "word": "teach",
+    "definition": "to instruct or help to learn",
+    "meaning_ko": "가르치다"
+  },
+  {
+    "word": "teacher",
+    "definition": "someone whose job is to teach in a school, college, etc.",
+    "meaning_ko": "교사, 선생님"
+  },
+  {
+    "word": "team",
+    "definition": "a group of people who compete in a sport, game",
+    "meaning_ko": "팀, 조"
+  },
+  {
+    "word": "tell",
+    "definition": "to say or communicate information to someone",
+    "meaning_ko": "말하다, 알려주다"
+  },
+  {
+    "word": "ten",
+    "definition": "the number 10",
+    "meaning_ko": "10, 열"
+  },
+  {
+    "word": "tend",
+    "definition": "used to describe what often happens or what someone often does or is likely to do",
+    "meaning_ko": "~하는 경향이 있다"
+  },
+  {
+    "word": "term",
+    "definition": "a word or phrase that describes something else",
+    "meaning_ko": "용어; 기간, 학기"
+  },
+  {
+    "word": "test",
+    "definition": "a set of questions designed to measure a person's ability",
+    "meaning_ko": "시험, 검사; 시험하다"
+  },
+  {
+    "word": "text",
+    "definition": "the original words in main writing or speech",
+    "meaning_ko": "글, 본문; 문자 메시지"
+  },
+  {
+    "word": "than",
+    "definition": "used to introduce a second part that is being compared",
+    "meaning_ko": "~보다"
+  },
+  {
+    "word": "thank",
+    "definition": "to tell (someone) that you are grateful for something that he or she has done or given",
+    "meaning_ko": "감사하다"
+  },
+  {
+    "word": "that",
+    "definition": "used to identify a specific person, thing, fact or idea",
+    "meaning_ko": "저것; ~라는 것"
+  },
+  {
+    "word": "the",
+    "definition": "used to point to something already mentioned",
+    "meaning_ko": "그, 바로 그"
+  },
+  {
+    "word": "themselves",
+    "definition": "the reflexive form of the pronoun 'they'",
+    "meaning_ko": "그들 자신"
+  },
+  {
+    "word": "then",
+    "definition": "at that time, at the time mentioned, after that",
+    "meaning_ko": "그때; 그러면"
+  },
+  {
+    "word": "there",
+    "definition": "in that place or position, at that location",
+    "meaning_ko": "거기에, 그곳에"
+  },
+  {
+    "word": "therefore",
+    "definition": "for that reason or because of that",
+    "meaning_ko": "그러므로, 따라서"
+  },
+  {
+    "word": "they",
+    "definition": "used to refer to two or more people, animals, or things",
+    "meaning_ko": "그들, 그 사람들"
+  },
+  {
+    "word": "thing",
+    "definition": "an object, animal, or quality doesn't have a specific name",
+    "meaning_ko": "것, 물건"
+  },
+  {
+    "word": "think",
+    "definition": "to believe or have a particular idea",
+    "meaning_ko": "생각하다"
+  },
+  {
+    "word": "thirty",
+    "definition": "the number 30",
+    "meaning_ko": "30, 서른"
+  },
+  {
+    "word": "this",
+    "definition": "used to identify a specific person, thing, or idea that is close",
+    "meaning_ko": "이것, 이"
+  },
+  {
+    "word": "though",
+    "definition": "although, despite the fact that",
+    "meaning_ko": "비록 ~이지만; 그래도"
+  },
+  {
+    "word": "thousand",
+    "definition": "the number 1000",
+    "meaning_ko": "1,000, 천"
+  },
+  {
+    "word": "three",
+    "definition": "the number 3",
+    "meaning_ko": "3, 셋"
+  },
+  {
+    "word": "through",
+    "definition": "into one side and out of the other side",
+    "meaning_ko": "~을 통하여, ~을 지나"
+  },
+  {
+    "word": "throw",
+    "definition": "to cause (something) to move out of your hand and through the air by quickly moving your arm forward",
+    "meaning_ko": "던지다"
+  },
+  {
+    "word": "till",
+    "definition": "until",
+    "meaning_ko": "~까지"
+  },
+  {
+    "word": "time",
+    "definition": "something measured in minutes, hours, days, etc.",
+    "meaning_ko": "시간, 때"
+  },
+  {
+    "word": "to",
+    "definition": "used to indicate place or direction",
+    "meaning_ko": "~로, ~에게; ~하기 위해"
+  },
+  {
+    "word": "today",
+    "definition": "this day, this present day, at the present time",
+    "meaning_ko": "오늘"
+  },
+  {
+    "word": "together",
+    "definition": "to be with each other or in one group",
+    "meaning_ko": "함께, 같이"
+  },
+  {
+    "word": "tomorrow",
+    "definition": "the day after today",
+    "meaning_ko": "내일"
+  },
+  {
+    "word": "tonight",
+    "definition": "this night or the night following this day",
+    "meaning_ko": "오늘 밤"
+  },
+  {
+    "word": "too",
+    "definition": "in addition, also",
+    "meaning_ko": "너무; 또한"
+  },
+  {
+    "word": "top",
+    "definition": "the highest part, point, or level of something",
+    "meaning_ko": "맨 위, 정상; 최고의"
+  },
+  {
+    "word": "totally",
+    "definition": "completely",
+    "meaning_ko": "완전히, 전적으로"
+  },
+  {
+    "word": "toward",
+    "definition": "in the direction of",
+    "meaning_ko": "~을 향하여"
+  },
+  {
+    "word": "town",
+    "definition": "a place people live, larger than a village, smaller than a city",
+    "meaning_ko": "소도시, 읍내"
+  },
+  {
+    "word": "trade",
+    "definition": "the activity of buying, selling, or exchanging",
+    "meaning_ko": "거래, 무역; 거래하다"
+  },
+  {
+    "word": "train",
+    "definition": "a group of connected vehicles traveling on railways",
+    "meaning_ko": "기차; 훈련하다"
+  },
+  {
+    "word": "travel",
+    "definition": "to go on a trip or journey : to go to a place and especially one that is far away",
+    "meaning_ko": "여행하다, 이동하다"
+  },
+  {
+    "word": "trouble",
+    "definition": "problems or difficulties",
+    "meaning_ko": "문제, 곤란"
+  },
+  {
+    "word": "true",
+    "definition": "agreeing with the facts, not false, real or actual",
+    "meaning_ko": "진짜의, 사실인; 참인"
+  },
+  {
+    "word": "try",
+    "definition": "to make an effort, to attempt to do something",
+    "meaning_ko": "시도하다, 노력하다"
+  },
+  {
+    "word": "turn",
+    "definition": "to move around a central point",
+    "meaning_ko": "돌다, 돌리다; 차례"
+  },
+  {
+    "word": "twelve",
+    "definition": "the number 12",
+    "meaning_ko": "12, 열둘"
+  },
+  {
+    "word": "twenty",
+    "definition": "the number 20",
+    "meaning_ko": "20, 스물"
+  },
+  {
+    "word": "two",
+    "definition": "the number 2",
+    "meaning_ko": "2, 둘"
+  },
+  {
+    "word": "type",
+    "definition": "a particular category of people or objects with a common characteristic",
+    "meaning_ko": "유형, 종류; 타자를 치다"
+  },
+  {
+    "word": "unclear",
+    "definition": "not easy to understand",
+    "meaning_ko": "불분명한, 명확하지 않은"
+  },
+  {
+    "word": "under",
+    "definition": "to be below something",
+    "meaning_ko": "~아래에"
+  },
+  {
+    "word": "understand",
+    "definition": "to know, to perceive or comprehend something",
+    "meaning_ko": "이해하다"
+  },
+  {
+    "word": "unless",
+    "definition": "used to say what will happen, be done, or be true if something else does not happen, is not done, or is not true",
+    "meaning_ko": "~하지 않는 한"
+  },
+  {
+    "word": "until",
+    "definition": "up to, to indicate the point in time when a particular situation",
+    "meaning_ko": "~까지"
+  },
+  {
+    "word": "up",
+    "definition": "to move towards a high place from a lower one",
+    "meaning_ko": "위로, 위쪽에"
+  },
+  {
+    "word": "use",
+    "definition": "to do something with another thing",
+    "meaning_ko": "사용하다; 사용"
+  },
+  {
+    "word": "usually",
+    "definition": "in the way that most often happens",
+    "meaning_ko": "보통, 대개"
+  },
+  {
+    "word": "value",
+    "definition": "the amount of money something is worth",
+    "meaning_ko": "가치, 값"
+  },
+  {
+    "word": "various",
+    "definition": "used to refer to several different or many different things",
+    "meaning_ko": "다양한, 여러 가지의"
+  },
+  {
+    "word": "very",
+    "definition": "to a high degree",
+    "meaning_ko": "매우, 아주"
+  },
+  {
+    "word": "view",
+    "definition": "an opinion or way of thinking",
+    "meaning_ko": "견해, 관점; 경치"
+  },
+  {
+    "word": "visit",
+    "definition": "to go somewhere to spend time with",
+    "meaning_ko": "방문하다, 찾아가다"
+  },
+  {
+    "word": "vote",
+    "definition": "to make an official choice for or against someone or something",
+    "meaning_ko": "투표하다; 투표"
+  },
+  {
+    "word": "wait",
+    "definition": "to stay or remain until an expected event happens",
+    "meaning_ko": "기다리다"
+  },
+  {
+    "word": "walk",
+    "definition": "to move with your legs, to go on foot",
+    "meaning_ko": "걷다, 산책하다"
+  },
+  {
+    "word": "want",
+    "definition": "to desire or wish for",
+    "meaning_ko": "원하다"
+  },
+  {
+    "word": "war",
+    "definition": "a period of fighting or conflict between countries,",
+    "meaning_ko": "전쟁"
+  },
+  {
+    "word": "watch",
+    "definition": "to pay attention to what is happening",
+    "meaning_ko": "보다, 지켜보다; 손목시계"
+  },
+  {
+    "word": "water",
+    "definition": "the clear liquid which forms the seas, rivers and rain",
+    "meaning_ko": "물"
+  },
+  {
+    "word": "way",
+    "definition": "a manner or characteristic of something",
+    "meaning_ko": "방법, 길"
+  },
+  {
+    "word": "we",
+    "definition": "used to refer to the speaker and another person as the subject",
+    "meaning_ko": "우리, 우리는"
+  },
+  {
+    "word": "wear",
+    "definition": "to use or have as clothing over part of your body",
+    "meaning_ko": "입다, 착용하다"
+  },
+  {
+    "word": "week",
+    "definition": "a period of seven days, starts on Sunday and end on Saturday",
+    "meaning_ko": "주, 일주일"
+  },
+  {
+    "word": "weekend",
+    "definition": "Saturday and Sunday",
+    "meaning_ko": "주말"
+  },
+  {
+    "word": "well",
+    "definition": "in a successful way, in a good or satisfactory way",
+    "meaning_ko": "잘; 건강한; 우물"
+  },
+  {
+    "word": "what",
+    "definition": "asking for information about someone or something",
+    "meaning_ko": "무엇, 어떤 것"
+  },
+  {
+    "word": "whatever",
+    "definition": "anything or everything that or no matter what",
+    "meaning_ko": "무엇이든, 어떤 것이든"
+  },
+  {
+    "word": "when",
+    "definition": "at what time, at, in, during which, how soon",
+    "meaning_ko": "언제; ~할 때"
+  },
+  {
+    "word": "where",
+    "definition": "to be in at or in what place?",
+    "meaning_ko": "어디; ~하는 곳"
+  },
+  {
+    "word": "whether",
+    "definition": "expressing a doubt between alternatives",
+    "meaning_ko": "~인지 아닌지"
+  },
+  {
+    "word": "which",
+    "definition": "what one or ones of a group, one or more people or things",
+    "meaning_ko": "어느 것, 어떤"
+  },
+  {
+    "word": "while",
+    "definition": "during the time that, at the same time",
+    "meaning_ko": "~하는 동안; 잠시"
+  },
+  {
+    "word": "white",
+    "definition": "having the color of snow, to be light or pale in color",
+    "meaning_ko": "흰, 하얀"
+  },
+  {
+    "word": "who",
+    "definition": "what or which person or people, to ask about, talking about",
+    "meaning_ko": "누구"
+  },
+  {
+    "word": "whole",
+    "definition": "complete or full, all of something",
+    "meaning_ko": "전체의, 온전한"
+  },
+  {
+    "word": "why",
+    "definition": "for what reason or purpose",
+    "meaning_ko": "왜, 이유"
+  },
+  {
+    "word": "wife",
+    "definition": "a married woman",
+    "meaning_ko": "아내, 부인"
+  },
+  {
+    "word": "will",
+    "definition": "expressing the future, to say something is expected to happen",
+    "meaning_ko": "~할 것이다; 의지"
+  },
+  {
+    "word": "win",
+    "definition": "to achieve victory in a fight or game",
+    "meaning_ko": "이기다, 승리하다"
+  },
+  {
+    "word": "window",
+    "definition": "an opening in a wall or door that usually contains a sheet of glass",
+    "meaning_ko": "창문"
+  },
+  {
+    "word": "wish",
+    "definition": "to want something to be true or to happen",
+    "meaning_ko": "바라다, 소원"
+  },
+  {
+    "word": "with",
+    "definition": "used to express that people or things are together",
+    "meaning_ko": "~와 함께, ~을 가지고"
+  },
+  {
+    "word": "within",
+    "definition": "inside something",
+    "meaning_ko": "~안에, 이내에"
+  },
+  {
+    "word": "without",
+    "definition": "not having or including something, in the absence of",
+    "meaning_ko": "~없이"
+  },
+  {
+    "word": "woman",
+    "definition": "an adult female human being",
+    "meaning_ko": "여성, 여자"
+  },
+  {
+    "word": "wonder",
+    "definition": "something that is very surprising or amazing",
+    "meaning_ko": "궁금해하다; 경이로운 것"
+  },
+  {
+    "word": "wonderful",
+    "definition": "very good",
+    "meaning_ko": "멋진, 훌륭한"
+  },
+  {
+    "word": "word",
+    "definition": "a unit of language that has a meaning",
+    "meaning_ko": "단어, 말"
+  },
+  {
+    "word": "work",
+    "definition": "to have a job or activity involving mental or physical effort",
+    "meaning_ko": "일하다; 일, 업무"
+  },
+  {
+    "word": "world",
+    "definition": "the earth and all people and things on it",
+    "meaning_ko": "세계, 세상"
+  },
+  {
+    "word": "worry",
+    "definition": "to think about problems or fears",
+    "meaning_ko": "걱정하다; 걱정"
+  },
+  {
+    "word": "worth",
+    "definition": "used to indicate the value of something",
+    "meaning_ko": "~의 가치가 있는"
+  },
+  {
+    "word": "would",
+    "definition": "indicating someone thinking about what will happen",
+    "meaning_ko": "~할 것이다; ~하곤 했다"
+  },
+  {
+    "word": "write",
+    "definition": "to compose letters and words on a surface",
+    "meaning_ko": "쓰다, 작성하다"
+  },
+  {
+    "word": "wrong",
+    "definition": "not agreeing with the facts or truth : incorrect",
+    "meaning_ko": "틀린, 잘못된"
+  },
+  {
+    "word": "yeah",
+    "definition": "yes",
+    "meaning_ko": "응, 그래"
+  },
+  {
+    "word": "year",
+    "definition": "a unit of time equal to 12 months or 365 days",
+    "meaning_ko": "해, 년"
+  },
+  {
+    "word": "yes",
+    "definition": "used to give a positive answer or reply to a question, request, or offer",
+    "meaning_ko": "네, 예"
+  },
+  {
+    "word": "yesterday",
+    "definition": "the day before today",
+    "meaning_ko": "어제"
+  },
+  {
+    "word": "yet",
+    "definition": "until now, up until the present",
+    "meaning_ko": "아직; 벌써"
+  },
+  {
+    "word": "you",
+    "definition": "used to refer to the person the speaker is addressing",
+    "meaning_ko": "너, 당신"
+  },
+  {
+    "word": "young",
+    "definition": "in an early stage of life or growth",
+    "meaning_ko": "젊은, 어린"
+  },
+  {
+    "word": "yourself",
+    "definition": "the reflexive form of the pronoun 'you'",
+    "meaning_ko": "너 자신"
+  }
+]
